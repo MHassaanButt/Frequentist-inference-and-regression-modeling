@@ -1,0 +1,2069 @@
+gender,age,year,eyecolor,height,miles,brothers,sisters,computertime,exercise,exercisehours,musiccds,playgames,watchtv
+female,18,first,hazel,68,195,0,1,20,Yes,3,75,6,18
+male,20,third,brown,70,120,3,0,24,No,0,50,0,3
+female,18,first,green,67,200,0,1,35,Yes,3,53,8,1
+male,23,fourth,hazel,74,140,1,1,5,Yes,25,50,0,7
+female,19,second,blue,62,60,0,1,5,Yes,4,30,2,5
+male,19,second,green,67,0,0,1,5,Yes,8,100,0,10
+male,37,third,brown,74,511,1,1,3,No,0,50,3,8
+male,22,third,brown,73,210,3,2,2,Yes,10,100,6,10
+female,26,fourth,brown,70,120,2,1,5,No,0,130,0,20
+male,21,third,blue,68,90,1,1,5,Yes,3,34,0.5,5
+male,25,fourth,blue,69,90,0,3,3,Yes,6,55,0,21
+female,20,second,blue,70,93,0,1,15,Yes,7,60,1,1
+male,29,other,brown,69,244,1,1,5,No,0,100,20,20
+female,19,second,green,65,40,1,0,6,Yes,4,175,0,12
+male,19,first,blue,70,40,0,0,5,No,0,150,3,2
+male,22,other,blue,73,90,0,1,15,Yes,10,35,20,4
+female,20,second,brown,64,100,2,1,9,No,0,30,10,8
+male,21,third,brown,70,124,1,2,4,Yes,6,5,1,5
+male,20,third,blue,70,400,0,0,30,Yes,4,50,5,1
+female,19,second,hazel,63,206,1,1,10,No,0,20,20,15
+male,20,third,hazel,70,184,2,0,20,No,0,40,10,20
+female,19,second,blue,69,240,1,1,14,No,0,15,1,10
+female,19,first,hazel,65,230,1,0,12.5,Yes,9,30,0,4.5
+female,19,second,blue,64,0,1,0,6,Yes,5,52,0,0
+male,18,first,green,58,175,1,0,10,No,0,40,5,5
+male,19,second,blue,67,60,4,1,5,Yes,2,50,10,12
+male,23,fourth,brown,74,160,2,1,20,No,0,60,15,40
+male,24,other,blue,72,180,2,2,2,Yes,7,100,7,21
+female,20,second,brown,64,0,0,2,3,Yes,3,50,0,10
+male,21,third,green,70,100,1,1,6,Yes,5,20,0,10
+female,22,fourth,brown,66,300,1,0,1,Yes,1,50,1,1
+male,22,fourth,blue,72,0,0,2,10,Yes,6,250,0,25
+female,19,second,brown,67,180,0,2,40,Yes,5,70,1,7
+female,21,third,blue,63,0,2,3,10,No,0,50,0.5,8
+male,21,third,green,70,80,0,2,10,No,0,50,10,30
+male,22,fourth,green,74,120,2,1,10,No,0,35,1,5
+male,20,third,other,71,90,1,0,15,Yes,4,10,0,1
+male,21,third,green,71,220,1,0,18,Yes,30,20,0,21
+male,21,third,brown,71,190,1,0,10,Yes,5,25,1,10
+female,19,second,blue,64,200,0,1,5,Yes,3,130,0,8
+male,18,first,green,71,130,2,1,2,No,0,15,2,25
+male,20,second,blue,72,120,0,1,4,Yes,10,56,12,8
+male,21,third,brown,70,157,0,1,15,No,0,50,5,28
+female,21,fourth,green,69,230,1,0,10,Yes,8,215,2,10
+male,19,first,brown,67,75,2,0,10,No,0,0,12,12
+male,22,fourth,hazel,70,200,0,2,5,No,0,5,5,20
+male,20,second,green,67,109,1,1,5,No,0,80,0,1
+female,20,second,blue,62,200,1,0,12,Yes,1,300,0,10
+male,21,third,brown,66,0,1,2,5,Yes,5,0,10,30
+male,20,third,hazel,69,50,2,0,8,Yes,2.5,250,0,5
+female,20,second,hazel,67,600,1,0,15,Yes,4,140,0,15
+female,19,second,brown,62,40,1,0,15,Yes,8,25,0,13
+female,22,fourth,brown,65,5,1,0,1,Yes,6,50,0,3
+male,20,third,hazel,72,80,1,1,2.5,Yes,5.5,10,5.5,14
+male,21,third,hazel,70,150,1,0,2,Yes,10,100,15,7
+female,19,second,brown,62,30,4,2,10,No,0,10,0,20
+male,21,fourth,blue,69,140,1,0,5,No,0,100,0,2
+female,21,fourth,blue,66,10,2,1,3,Yes,3,20,5,10
+female,21,fourth,green,65,305,2,3,14,Yes,2,110,2,12
+male,20,third,blue,79,79,0,2,28,Yes,6,40,2,15
+female,20,second,brown,62,220,0,0,24,Yes,5,25,0,7
+male,20,third,hazel,71,55,0,1,12,Yes,6,150,12,12
+male,19,first,brown,68,20,2,0,10,No,0,40,10,14
+male,18,first,blue,71,180,2,0,3,Yes,5,30,2,2
+male,18,first,blue,72,75,0,2,3,Yes,2,15,0,4
+female,20,second,blue,64,150,0,3,7,No,0,150,0,28
+male,21,third,hazel,75,210,0,0,7,No,0,26,10,10
+male,20,second,brown,70,11,3,1,7,Yes,10,5,14,40
+male,23,other,brown,80,1500,1,0,10,No,0,20,10,1
+female,22,fourth,green,64,154,1,0,5,No,0,100,0,10
+female,18,second,green,67,80,1,0,70,No,0,56,0,5
+female,19,second,hazel,67,360,1,2,10,Yes,4,30,3,6
+male,21,third,blue,75,170,1,1,5,Yes,2,6,1,5
+female,38,third,hazel,67,40,1,1,4,Yes,7,30,14,14
+female,20,third,brown,67,35,0,0,3,Yes,5,60,0,10
+male,23,fourth,blue,74,0,1,1,8,Yes,5,500,11,16
+female,19,second,hazel,65,35,0,2,5,Yes,4,30,0,5
+male,21,third,blue,71,95,1,0,10,Yes,8,30,5,10
+male,20,second,blue,75,190,2,0,10,No,0,55,10,1
+female,21,third,blue,68,101,1,3,2,No,0,0,1,10
+female,19,second,green,67,150,1,5,4,Yes,3,200,0,3
+male,21,third,blue,75,15,2,1,7,Yes,4,100,10,10
+male,20,third,blue,76,210,1,1,5,Yes,3.5,100,10,10
+male,18,first,green,71,215,0,2,4,Yes,5,60,0,1
+female,20,third,brown,62,45,1,1,60,No,0,100,0,2
+male,22,fourth,blue,73,13,1,1,4,Yes,6,50,4,8
+male,22,other,blue,68,0,2,0,10,No,0,150,2,15
+female,18,first,green,67,215,0,2,30,No,0,20,1,3
+male,24,first,brown,70,28,3,3,20,Yes,6,0,8,20
+male,19,first,blue,72,260,0,1,20,No,0,100,10,20
+female,23,other,other,65,30,1,1,20,No,0,20,5,15
+male,21,second,brown,69,8587.2,1,0,20,Yes,6,0,6,2
+female,20,third,brown,60,30,0,1,7,No,0,50,0,25
+female,20,second,blue,62,60,1,0,18,Yes,5,350,0,18
+female,21,third,brown,63,7000,0,1,10,No,0,300,0,4
+female,19,first,hazel,68,230,0,1,30,No,0,350,2,2
+female,20,third,other,70,22,3,0,10,No,0,15,1,3
+female,20,second,blue,62,130,2,1,25,No,0,10,0,8
+male,23,other,blue,71,180,0,1,16,Yes,4,58,10,15
+female,17,other,brown,67,18,2,1,10,No,0,50,0,5
+female,19,second,blue,61,50,0,1,14,No,0,150,0,20
+female,21,fourth,brown,63,120,1,0,5,No,0,500,30,15
+male,20,second,blue,71,30,0,1,15,Yes,4,200,2,8
+female,27,fourth,blue,63,2000,1,1,8,Yes,6,27,0,7
+female,21,third,brown,67,220,2,1,6,Yes,5,100,0,10
+male,19,second,hazel,78,300,0,1,24,Yes,16,100,2,18
+male,21,third,brown,69,180,3,0,15,No,0,25,1,10
+male,20,second,brown,73,82,2,2,10,No,0,500,1,3
+female,20,second,green,65,160,5,6,3,Yes,0,30,0.5,12
+female,24,other,blue,64,100,1,0,4,No,0,133,0,10
+male,18,first,green,72,360,1,0,5,Yes,5,100,5,10
+male,21,third,green,73,0,1,1,2,No,0,200,0.5,2
+male,20,third,brown,71,58,0,2,52.5,No,0,12,12.5,22.5
+male,21,third,brown,72,0,0,1,2,Yes,9,100,14,7
+female,18,first,green,67,65,0,2,8,Yes,10,50,0,8
+male,20,second,blue,71,150,0,1,4,Yes,10,100,10,20
+female,20,second,hazel,68,190,6,2,3,Yes,6,15,0,5
+female,20,second,green,65,288.5,0,2,25,No,0,47,1,5
+female,19,second,blue,65,300,0,3,5,No,0,75,0.5,7
+male,20,second,green,68,132,2,0,25,Yes,7,50,10,10
+male,19,second,brown,71,4000,2,0,45,Yes,6,60,5,35
+female,19,second,brown,69,70,1,0,15,Yes,2,40,5,10
+female,20,third,blue,70,150,1,1,14,Yes,6,25,1,3
+male,20,third,brown,75,300,0,2,3,Yes,20,45,18,5
+female,20,second,green,64,215,0,0,5,Yes,25,200,0.5,2
+female,20,third,green,67,30,1,1,10,Yes,5,50,0,2
+male,22,fourth,brown,75,40,1,0,7,Yes,8,200,13,35
+female,20,third,blue,68,150,0,1,3,Yes,3.5,50,0,5
+male,20,second,blue,73,190,0,1,4,Yes,2,40,3,6
+male,19,first,brown,70,375,0,1,15,No,0,300,5,5
+female,19,second,green,64,193,0,1,40,No,0,1000,0,20
+female,21,fourth,green,66,180,1,0,14,Yes,5,100,2,30
+male,23,other,brown,68,293,3,1,2,Yes,15,150,21,14
+female,19,first,blue,69,250,0,1,12,Yes,8,55,0,6
+male,20,second,hazel,68,45,0,2,1.5,No,0,80,2,9
+female,21,fourth,green,66,45,1,0,5,No,0,20,1,8
+female,21,third,brown,66,300,1,2,15,Yes,6,200,0,15
+female,22,third,blue,70,240,3,2,1,Yes,1,12,0.5,0.5
+male,19,second,green,72,1500,1,0,2,Yes,3,31,6,16
+female,19,second,blue,67,40,1,2,2,Yes,3,60,0,10
+female,20,second,other,63,13000,2,1,20,No,0,10,0,2
+female,20,third,blue,66,260,1,1,7,No,0,34,1,15
+male,19,second,brown,72,800,0,2,4,Yes,4,450,2,8
+female,19,second,other,68,369,1,4,3,Yes,3,12,0,5
+female,20,second,blue,67,168,0,2,5,Yes,3,80,0,10
+male,21,third,hazel,73,50,1,1,5,Yes,8,100,5,4
+female,20,second,green,75,440,0,1,3,Yes,10,40,0,3
+male,20,second,green,68,60,0,1,7,Yes,3,120,7,25
+female,20,third,blue,68,75,1,2,15,Yes,3,20,0,0
+female,23,fourth,blue,70,40,1,1,6,No,0,75,0,3
+male,21,third,brown,69,200,1,2,4,No,0,100,7,20
+male,21,fourth,brown,74,85,2,0,10,Yes,6,100,5,5
+female,19,second,hazel,63,190,0,2,1,No,0,30,2,5
+male,21,third,green,69,175,1,1,8.5,Yes,7,300,5,17.5
+male,20,third,blue,66,200,1,1,3,No,0,20,0,2
+female,20,third,green,68,0,1,1,10,Yes,6,100,0,10
+female,23,fourth,hazel,64,33,2,1,5,No,0,20,0,10
+male,22,third,brown,71,150,3,0,2,Yes,5,80,4,6
+female,21,third,hazel,64,160,1,1,2,No,0,5,0,6
+male,24,third,brown,64,360,2,1,3,Yes,4,12,0,6
+male,22,other,green,72,50,2,0,15,Yes,5,45,3,6
+male,24,fourth,green,74,189,2,1,6,Yes,5,25,1,25
+female,19,second,green,77,105,2,0,10,Yes,8,120,1,3
+female,20,third,blue,62,65,1,1,15,Yes,4,10,0,10
+female,19,first,green,63,950,1,0,8,No,0,50,2,5
+female,19,first,hazel,66,350,1,0,4,Yes,4,45,0,8
+female,22,other,brown,68,210,2,1,8.5,No,0,75,0,22
+female,20,third,blue,67,138,0,2,6,No,0,79,0,15
+female,20,second,hazel,67,100,2,1,2.5,Yes,0,20,3.5,15
+female,20,second,brown,63,390,2,1,50,No,0,85,2,12
+female,19,third,brown,65,6000,0,1,15,No,0,27,0,20
+male,21,third,brown,69,130,1,2,1,No,0,60,5,20
+male,19,first,blue,73,110,2,1,11,No,0,400,1,3
+female,20,third,green,64,200,1,1,25,Yes,6,40,0.5,14
+male,25,fourth,brown,70,15,3,1,5,No,0,100,2,5
+female,22,fourth,brown,65,25,0,2,4,Yes,6,50,0,2
+male,21,third,blue,68,100,0,2,20,No,0,700,5,10
+female,20,second,brown,66,35,1,2,2,No,0,15,0,5
+male,19,first,brown,61,120,0,3,3,Yes,5,4,5,30
+female,19,first,brown,67,300,1,1,12,Yes,3,20,1,1
+male,21,other,blue,71,220,0,1,5,No,0,102,10,20
+female,18,first,brown,65,80,1,1,10,Yes,2,95,1,3
+male,28,other,hazel,72,110,3,1,6,No,0,100,2,21
+female,18,first,blue,67,30,1,1,20,No,0,100,0,3
+female,20,second,brown,72,500,1,1,8,No,0,200,4,7
+male,19,second,hazel,73,1697,1,0,5,Yes,5,35,10,5
+male,24,second,brown,73,57,1,1,5.5,Yes,12,300,1,3
+female,21,fourth,blue,65,150,0,1,10,No,0,60,1,15
+female,20,third,green,65,45,0,2,30,No,0,30,2,20
+female,41,first,hazel,69,10,2,1,6,Yes,6,200,2,6
+female,21,fourth,green,64,120,2,2,3,No,0,50,3,5
+female,20,second,brown,67,175,2,1,15,Yes,6,45,1,8
+female,19,first,blue,65,350,0,2,3,No,0,50,0,1
+male,19,first,blue,67,14,1,2,20,No,0,15,1,0
+female,20,second,hazel,68,75,1,0,5,No,0,100,7,5
+female,20,third,green,65,180,0,1,5,Yes,3,40,0,8
+male,23,third,blue,67,90,1,1,7,Yes,4.5,110,1,2
+male,21,third,blue,70,250,0,2,10,Yes,10,50,0,2
+male,20,third,blue,74,90,1,2,8,Yes,10,70,8,2
+female,20,third,blue,64,100,2,1,40,Yes,5,40,0,3
+female,19,second,green,67,350,1,1,6,No,0,50,1,6
+male,26,fourth,brown,69,770,3,0,15,Yes,4,150,10,7
+male,21,third,blue,73,200,1,1,2,Yes,6,5,2,20
+female,19,second,blue,71,180,1,3,15,Yes,3,100,0.5,10
+female,22,first,other,67,110,3,0,10,Yes,3,15,0,0
+male,20,third,other,77,130,2,2,4,Yes,6,150,6,15
+male,18,first,blue,73,90,1,1,15,No,0,30,0,10
+female,18,first,green,64,24,0,1,3,Yes,4,30,5,6
+male,19,third,hazel,72,150,1,0,5,Yes,7,58,4,18
+female,21,third,brown,63,60,1,2,25,No,0,75,10,2
+female,20,second,brown,69,150,2,1,3,No,0,75,0,4
+male,18,first,brown,71,50,2,2,8,Yes,12,75,1,0.5
+female,20,second,green,65,142,1,2,21,No,0,15,1,7
+male,20,third,blue,69,190,0,1,15,Yes,8.5,112,1,15
+female,19,second,hazel,60,40,0,1,4,Yes,5,20,0,14
+female,22,fourth,brown,63,1000,4,1,10,No,0,150,0,20
+female,22,fourth,blue,62,400,1,1,10,No,0,100,0.5,5
+female,19,second,blue,69,140,2,0,6,No,0,80,0,15
+female,20,third,blue,63,385,0,1,15,No,0,75,1,3
+male,20,third,hazel,68,212,0,1,3,Yes,4,50,1,10
+female,20,second,brown,63,150,3,3,3,Yes,7.5,25,4,5
+female,21,fourth,hazel,65,90,3,1,4,Yes,10,100,0,15
+male,20,second,green,74,396,1,0,10,Yes,2,90,24,10
+female,20,third,blue,65,300,1,1,4,Yes,4,30,10,5
+male,21,third,blue,70,200,1,1,1,Yes,6,50,2,30
+male,23,third,green,67,140,0,1,5,Yes,7.5,45,0,45
+female,18,first,blue,67,90,2,1,4,Yes,3,3,0,8
+female,19,second,brown,66,52,1,1,4,Yes,8,20,2,8
+male,21,third,blue,71,35,1,1,8,No,0,25,6,12
+male,20,third,brown,74,321,0,1,1.5,No,0,35,1,3
+male,26,second,hazel,73,120,0,0,5,No,0,76,10,25
+male,21,third,hazel,71,180,0,1,12,Yes,5,20,1,12
+male,21,third,blue,70,135,2,0,15,Yes,10,5,4,15
+female,19,second,brown,68,155,0,0,3,Yes,12,25,0,15
+female,19,first,green,64,70,1,0,7,No,0,15,0,7
+female,19,second,brown,65,75,1,2,15,No,0,94,7,3
+female,21,fourth,brown,72,45,1,0,30,Yes,3,70,0,2
+female,20,third,hazel,67,100,3,4,3,Yes,6,12,0,2.5
+male,22,fourth,green,67,35,0,2,0,No,0,200,10,10
+female,18,first,brown,66,210,1,0,7,No,0,100,2,10
+female,20,third,blue,63,130,0,1,6,Yes,9,60,0,15
+female,19,second,hazel,62,111,1,0,3,Yes,3,25,0,10
+male,19,first,hazel,68,150,3,0,4,No,0,10,3,3
+female,19,second,blue,72,0,1,1,2,Yes,7,8,2,20
+male,20,second,blue,70,210,2,0,5,Yes,13,75,5,20
+female,21,fourth,brown,62,200,5,0,4,No,0,80,1,6
+male,18,first,blue,77,375,1,1,8,Yes,12,24,0,7
+female,20,second,brown,73,173,1,1,8,Yes,20,100,0,3
+male,22,fourth,other,72,180,3,0,2,Yes,3,120,3,28
+male,19,second,brown,71,120,2,1,5,Yes,10,1,0,2
+male,20,third,brown,77,80,0,1,15,No,0,20,30,40
+male,21,third,blue,72,110,3,0,6,Yes,5,100,10,15
+female,22,fourth,other,65,75,0,2,5,Yes,5,30,0,7
+male,20,third,blue,73,180,0,1,6,No,0,120,10,30
+male,19,first,blue,72,40,2,1,7,Yes,4,20,3,1
+male,20,third,blue,70,240,1,1,15,Yes,10,50,5,5
+female,21,fourth,brown,68,250,1,0,2,No,0,75,2,5
+male,22,fourth,blue,73,290,1,1,7,Yes,5,100,10,10
+female,20,third,brown,62,180,1,4,10,Yes,5,40,1,6
+male,20,third,blue,67,0,2,0,15,Yes,4,0,1,15
+female,21,fourth,blue,67,80,2,0,10,Yes,5,100,1,15
+female,22,third,brown,68,95,0,2,10,Yes,6.5,55,2,12
+male,22,other,blue,70,117,2,1,5,No,0,50,5,21
+male,20,third,hazel,71,101.1,0,3,10,Yes,2,100,0,5
+female,21,third,blue,69,85,1,0,4,Yes,8,60,0,3
+female,19,second,blue,66,200,1,0,10,No,0,150,0,10
+female,20,third,blue,65,250,1,0,10,Yes,6,200,0,5
+female,20,second,hazel,68,162.5,0,0,15,Yes,12,150,0,10
+female,19,second,blue,68,125,2,1,7,Yes,5,35,0,1
+male,21,third,green,71,62,1,1,30,Yes,10,300,10,20
+female,21,third,brown,67,120,1,1,2,Yes,8,50,1,3
+male,25,fourth,brown,75,30,0,1,5,Yes,5,150,1,10
+female,19,second,hazel,64,125,2,0,12,No,0,4,0,3
+female,20,third,blue,66,70,1,4,20,Yes,3,25,0,4
+male,19,second,other,70,0,0,1,20,No,0,500,12,5
+female,22,fourth,brown,68,110,1,1,1,No,0,55,2,5
+male,21,fourth,other,70,40,1,1,4,Yes,16,30,1,5
+female,21,fourth,brown,70,60,1,3,10,No,0,30,1,3
+male,21,fourth,green,72,120,0,2,20,No,0,6,1,20
+male,18,first,brown,70,5000,1,0,15,Yes,4,50,20,15
+female,18,first,brown,65,1200,2,2,20,No,0,50,3,3
+female,19,second,green,70,90,0,1,10,Yes,5,300,2,10
+male,21,fourth,brown,67,300,3,1,10,Yes,1,50,0.5,4
+male,21,third,blue,68,0,1,2,4,Yes,6,50,1,8
+male,20,third,blue,71,280,1,1,5,Yes,2,3,10,10
+female,19,second,hazel,65,100,1,1,10,Yes,2,30,0.25,4
+male,20,second,brown,72,85,4,3,20,Yes,3,100,1,10
+male,18,first,blue,66,320,1,4,10,Yes,10,60,0,20
+male,21,third,brown,72,180,0,2,10,Yes,5,130,20,20
+female,21,third,blue,68,75,1,0,4,Yes,5,30,0,7
+female,20,second,blue,66,85,2,1,10,Yes,3,200,10,10
+female,19,second,blue,64,90,1,0,8,No,0,150,2,15
+female,18,first,brown,67,181,1,0,15,No,0,82,0,15
+male,20,third,blue,73,165,2,0,2,Yes,5,100,3.5,14
+male,20,second,blue,78,40,0,1,7,Yes,5.5,50,0,15
+male,24,fourth,blue,69,85,2,1,2,Yes,0,100,8,2
+female,20,third,brown,67,130,1,1,5,Yes,5,200,0,15
+female,18,first,green,67,0,0,0,30,Yes,14,60,0,2
+male,21,third,blue,70,225,3,0,4,Yes,5,50,2,15
+male,21,third,blue,74,100,1,1,1,Yes,3,50,1,5
+male,20,third,green,71,180,0,1,5,Yes,3,40,1,4
+female,22,fourth,brown,70,100,0,1,15,Yes,3,95,0,10
+male,19,second,blue,68,280,1,0,30,No,0,400,1,20
+female,19,second,blue,64,40,1,0,15,No,0,32,0,0
+female,20,third,blue,65,35,1,4,37.5,No,0,40,1,2
+male,21,third,hazel,77,180,1,1,3,Yes,6,20,2,15
+female,19,second,brown,69,175,1,1,5,Yes,3,50,3,2
+male,21,second,blue,68,55,1,1,3,Yes,18,40,0,12
+male,19,second,brown,70,230,0,2,10,No,0,60,6,2
+female,19,second,hazel,70,180,2,0,8,Yes,15,80,0,4
+male,23,third,blue,75,90,1,1,5,Yes,5,0,10,25
+female,20,second,green,69,140,1,2,5,Yes,5,200,0,0
+male,21,third,blue,71,45,1,0,10,Yes,20,80,4,5
+male,21,third,blue,68,70,1,0,8,Yes,12,100,2,10
+female,22,fourth,blue,60,0,2,2,10,Yes,5,20,0,0
+female,22,fourth,brown,64,40,1,1,5,No,0,50,0,0
+female,18,first,hazel,64,200,0,1,10,Yes,4,75,0,6
+female,23,other,blue,70,122,2,1,2.5,Yes,3.5,100,1.5,3.5
+female,22,fourth,hazel,65,5,0,3,15,Yes,4.5,40,0,15
+male,21,third,hazel,72,115,1,1,15,Yes,8,100,15,10
+male,21,third,green,74,120,0,1,15,Yes,6.5,60,2,15
+male,20,second,hazel,74,100,1,1,8,Yes,8,148,2,10
+female,19,second,blue,63,175,1,0,10,Yes,3.5,200,1,4
+female,22,fourth,blue,67,30,1,2,10,Yes,6,140,0,20
+female,20,third,blue,68,300,1,1,7,Yes,3,60,2,10
+male,19,second,hazel,72,45,0,0,70,Yes,0,30,0,2
+male,20,third,blue,68,250,0,1,1,Yes,5,100,12,12
+male,21,third,green,77,330,2,0,3,No,0,50,2,5
+female,22,other,blue,70,70,3,1,5,No,0,30,5,25
+female,21,third,blue,65,160,0,1,2,No,0,40,0,7
+male,20,second,blue,71,115,3,2,10,No,0,25,10,5
+male,19,first,brown,62,220,3,0,10,No,0,10,5,16
+male,20,second,blue,71,230,3,0,15,No,0,100,3,10
+male,19,first,blue,71,0,1,0,3,Yes,1,100,0,20
+male,21,third,other,73,79,0,1,2,Yes,10,96,12,3
+female,20,second,brown,68,30,0,3,10,No,0,20,2,4
+female,19,second,blue,61,368,2,0,10,No,0,60,2,5
+female,19,second,blue,65,2000,0,1,3,Yes,2,30,1,4
+female,18,first,green,69,0,1,0,10,Yes,3,20,0,5
+male,20,second,blue,74,30,0,1,35,No,0,1000,10,10
+male,24,fourth,blue,74,105,0,2,14,No,0,127,1,8
+female,21,third,green,63,43,1,0,10,Yes,5,20,2,1
+female,20,third,brown,67,300,2,0,15,No,0,150,1,5
+male,21,third,blue,72,120,0,2,10,Yes,10,100,0,5
+female,43,other,brown,65,60,0,0,0,No,0,0,0,25
+female,18,first,brown,67,0,0,2,5,Yes,5,15,0,15
+female,18,first,blue,74,237,0,0,35,Yes,6,46,12,28
+female,21,third,green,66,95,2,1,4,Yes,3,50,0,3
+male,20,second,blue,69,60,0,1,8,Yes,3,100,2,8
+male,20,third,blue,77,65,1,0,28,Yes,3,40,1,15
+male,19,second,blue,69,710,0,1,10,No,0,200,2,2
+female,21,fourth,green,67,400,0,2,20,No,0,4,0,8
+female,22,other,brown,60,30,3,0,8,Yes,5,150,0,4
+male,19,second,green,73,1100,0,1,0.5,Yes,5,20,3,2
+male,20,second,green,71,120,1,1,10,Yes,12,67,15,15
+female,19,second,hazel,64,370,2,1,20,No,0,100,0,2
+female,21,third,hazel,68,130,5,5,20,Yes,4.5,50,0,17.5
+male,21,third,brown,72,110,0,1,3,Yes,3,30,1,0.5
+female,22,fourth,blue,65,12,1,0,5,Yes,4,35,0,4
+female,19,second,hazel,62,0,1,0,7,Yes,4,300,0,21
+female,20,second,brown,69,100,1,0,10,Yes,21,100,0,5
+male,21,third,brown,70,200.2,0,1,5,No,0,50,0.5,5
+female,19,second,brown,68,87,1,2,5,No,0,35,0,10
+male,21,third,blue,74,90,0,1,10,No,0,10,10,10
+female,18,first,hazel,69,50,0,1,5,Yes,1,55,1,25
+female,19,second,green,67,35,1,0,1,No,0,57,2,10
+male,22,fourth,hazel,74,250,2,1,2,Yes,5,200,0,2
+male,21,third,blue,71,100,2,0,15,Yes,5,20,20,10
+male,20,third,brown,72,328,1,0,21,Yes,8,350,0,15
+female,21,third,hazel,64,64,1,1,3,No,0,50,1,5
+male,19,second,blue,76,220,1,0,10,Yes,5,70,2,7
+male,24,other,brown,66,180,2,0,10,No,0,150,15,20
+female,23,other,green,66,200,2,0,3,Yes,10,600,0,25
+female,20,third,brown,63,30,3,1,10,Yes,3.5,8,0,10
+female,20,third,hazel,67,90,0,1,10,Yes,5,35,1,8
+female,21,third,hazel,63,150,0,2,7,No,0,50,1,21
+male,22,fourth,hazel,72,60,3,0,3.5,Yes,6,50,,6.5
+male,20,second,hazel,68,0,1,1,8,No,0,90,2,9
+female,18,first,blue,63,102,1,1,5,No,0,50,0,3
+female,20,second,green,69,40,4,0,5,Yes,12,400,0,10
+female,18,first,hazel,62,72,0,2,25,Yes,15,52,1,2
+male,20,second,blue,72,120,2,1,10,Yes,8,5,0,15
+female,22,fourth,blue,72,75,1,0,12,Yes,3,110,0,2
+male,19,first,brown,70,510,1,1,10,Yes,5,30,1,10
+male,21,fourth,brown,72,400,1,1,5,No,0,65,2,12
+male,18,first,blue,69,120,5,0,6,Yes,15,30,25,10
+female,19,second,green,65,20,1,1,20,Yes,4,40,8,2
+male,24,first,brown,72,7000,0,1,40,No,0,100,20,15
+female,19,second,hazel,64,350,1,1,15,Yes,3,250,0,10
+female,20,third,hazel,72,0,0,2,15,Yes,3,5,5,5
+female,20,third,hazel,65,0,1,0,5,Yes,1.5,27,0,5
+female,20,third,brown,63,69,1,4,5,Yes,5,100,3,5
+female,22,fourth,green,64,180,2,0,3,No,0,50,0,12
+female,20,third,blue,65,65,2,0,3,Yes,3,30,0,6
+female,20,third,blue,60,0,1,1,8,No,0,50,5,10
+female,21,fourth,brown,62,460,1,2,10,Yes,4,25,0,1
+male,22,third,blue,72,40,0,1,10,No,0,75,5,5
+male,20,third,blue,74,240,1,1,2,Yes,4,50,4,4
+female,22,other,hazel,63,365,0,1,20,Yes,5,180,3,8
+female,19,second,brown,61,2300,1,1,5,No,0,35,0,7
+female,20,second,blue,69,63,3,2,5,Yes,3,200,1,2
+female,22,fourth,green,66,40,0,2,10,Yes,5,35,1,15
+male,22,other,blue,72,366,2,0,15,Yes,10,1500,5,15
+female,21,third,brown,69,33,1,0,4,Yes,3.5,20,0,6
+male,22,fourth,blue,72,35,2,1,15,Yes,3,75,4,1
+female,20,second,blue,65,8,0,0,14,No,0,50,0,25
+female,21,fourth,green,64,250,1,1,8,Yes,4,70,0,4
+female,21,fourth,hazel,63,350,1,0,10,No,0,250,0,3
+female,19,second,brown,62,160,1,0,2,Yes,4,35,2,5
+female,20,third,brown,67,286,0,2,2,No,0,18,0,8
+male,21,fourth,hazel,70,90,3,2,10,Yes,2,4,15,3
+female,22,other,brown,70,150,1,1,8,No,0,150,0,2
+female,21,fourth,green,66,50,4,1,5,Yes,3,25,1,1
+female,20,third,brown,62,205,0,1,6,Yes,4,60,0,2
+male,19,second,hazel,72,37,2,2,4,Yes,20,100,2,2
+female,19,second,green,64,75,1,1,14,Yes,3,25,0,4
+female,24,other,blue,66,45,0,0,8,No,0,30,0,14
+female,21,fourth,blue,64,75,1,0,15,No,0,30,2,20
+male,20,third,green,69,350,0,1,1,Yes,7,100,4,4
+female,20,second,brown,60,1700,0,1,4,No,0,30,0,5
+male,23,other,blue,73,150,3,2,3,No,0,575,1,6
+female,20,third,brown,65,200,0,1,16,Yes,3,60,1,8
+male,22,third,brown,70,140,2,1,5,No,0,30,10,10
+female,22,other,blue,65,400,0,1,10,No,0,600,0,0
+male,20,third,hazel,76,4500,1,0,10,Yes,7,30,10,10
+female,22,fourth,green,68,200,0,1,8.5,Yes,9,50,0,2
+male,40,other,blue,76,500,1,0,0,No,0,100,21,15
+female,19,second,hazel,62,175,1,2,12,Yes,3,10,1,19
+male,22,other,brown,69,15,0,1,10,No,0,100,10,10
+male,20,third,hazel,71,0,0,2,20,No,0,5,0,5
+male,20,third,green,75,176,1,2,21,Yes,5,0,1,14
+female,19,third,brown,67,42,0,3,4,Yes,6,20,1,6
+female,19,second,blue,72,198,2,2,45,Yes,5,167,1,1
+male,21,fourth,blue,68,100,0,2,15,No,0,1500,2,10
+male,20,second,hazel,76,100,1,1,4,Yes,5,6,8,16
+female,21,fourth,brown,62,185,4,4,2,No,0,40,0,2
+female,39,fourth,hazel,67,36,1,1,8,No,0,30,0,14
+female,20,third,blue,63,250,1,2,10,No,0,100,2,8
+male,24,third,hazel,71,120,4,0,12,Yes,10,200,3,12
+male,41,other,blue,74,0,1,1,2,No,0,25,2,20
+male,26,third,brown,68,20,0,1,20,Yes,10,75,4,6
+female,21,fourth,brown,69,210,1,0,5,Yes,2,12,1,3
+female,20,third,blue,60,90,0,4,20,Yes,7,150,0,2
+male,21,fourth,brown,70,96,1,1,8,Yes,2,50,2,6
+male,20,third,green,67,48,0,1,3,Yes,2,150,0,3
+male,21,fourth,blue,69,220,0,1,4,No,0,10,10,2
+female,20,third,green,63,430,1,2,2,No,0,10,0,2
+female,21,fourth,brown,66,60,0,2,1,No,0,30,0,2
+female,20,third,blue,65,200,1,1,5,No,0,50,0,5
+female,20,second,green,68,0,0,1,20,Yes,3,84,0,4
+female,27,second,hazel,62,244,2,0,5,Yes,4,55,0,10
+male,20,third,blue,71,450,1,1,7,No,0,30,0,9
+male,21,other,brown,69,170,2,0,15,Yes,2,20,0,10
+female,19,second,blue,67,120,0,1,15,No,0,100,15,30
+male,19,second,brown,68,3000,1,1,7,No,0,0,12,0
+male,21,fourth,brown,58,1000,3,0,10,Yes,10,80,10,25
+female,20,third,blue,62,330,2,0,5,No,0,120,0.5,2
+female,19,second,brown,62,200,2,0,10,Yes,3,20,0,1
+female,20,third,blue,66,1200,0,0,10,Yes,5,100,5,10
+male,20,third,blue,77,22,2,0,13,Yes,4.5,200,1,9
+male,21,third,hazel,73,138,1,0,8,Yes,5,100,10,2
+female,19,second,green,58,40,0,2,4,No,0,36,0,5
+male,20,third,hazel,72,100,0,1,40,Yes,4,200,10,4
+female,20,second,blue,64,120,2,1,5,No,0,50,0,2
+male,21,third,other,75,45,0,2,8,Yes,8,200,0,5
+female,20,third,hazel,65,90,1,1,18,Yes,0,40,0,2
+male,19,second,blue,73,120,3,1,15,Yes,10,1000,2,8
+female,18,first,brown,64,35,1,0,7.5,No,0,100,0,15
+male,20,second,hazel,73,80,2,1,5,No,0,30,5,10
+female,20,third,brown,69,110,0,3,15,Yes,5,50,2,8
+male,20,third,hazel,72,316,0,1,4,Yes,10,300,3,15
+female,19,second,blue,64,45,0,1,4,Yes,4,75,0,2
+male,24,fourth,blue,68,453,2,1,7,Yes,6,300,8,4
+female,23,other,blue,64,25,1,1,20,Yes,5,30,4,3
+female,20,third,hazel,68,90,1,1,4,Yes,5,50,0,10
+male,21,fourth,brown,67,30,1,0,24,No,0,100,3,20
+female,20,third,hazel,66,300,0,2,10,No,0,100,2,10
+male,20,third,brown,70,10,2,0,5,No,0,0,5,5
+female,22,fourth,brown,63,130,1,0,3,No,0,300,10,10
+male,20,third,blue,70,181,0,2,25,Yes,5,10,3,10
+male,19,second,hazel,66,30,1,2,20,No,0,300,2,20
+female,20,third,blue,70,73,2,0,5,No,0,30,2,10
+female,22,other,brown,71,0,2,0,2,Yes,5,50,0,5
+female,19,second,hazel,68,180,1,1,7,No,0,30,1,4
+male,20,third,blue,70,250,0,1,7,Yes,5,35,3,3
+male,20,third,blue,71,168,0,1,5,No,0,20,1,16
+male,19,second,blue,76,134,0,0,15,No,0,300,4,14
+male,24,third,blue,69,45,3,2,20,Yes,20,45,0,2
+male,27,fourth,blue,69,150,0,3,15,No,0,30,5,10
+male,22,fourth,hazel,75,200,0,1,1,Yes,2,150,1,10
+male,22,fourth,brown,77,50,1,1,3,No,0,124,0,3
+female,22,other,green,70,45,2,2,10,Yes,4,100,2,12
+male,20,third,brown,70,55,1,0,6,No,0,25,9,12
+female,19,second,green,80,107,3,0,10,No,0,50,0,9
+female,20,third,blue,64,27.5,1,0,7.5,No,0,100,0,2.5
+male,19,second,brown,69,240,1,1,10,No,0,215,2,2
+female,19,second,blue,65,160,1,1,10,Yes,4.5,30,0,5
+male,20,third,brown,70,118,2,0,20,No,0,100,2,3
+female,20,third,green,65,185,4,1,7.5,Yes,4,75,3,2.5
+female,21,third,blue,63,0,1,1,3,Yes,8,48,1,10
+female,20,third,hazel,68,99.6,1,0,30,No,0,120,10,21
+male,20,third,blue,79,30,0,1,5,Yes,15,50,15,35
+male,39,third,brown,68,525,1,1,12,Yes,2,30,1,5
+female,19,second,blue,63,90,3,1,8,No,0,25,0,7
+female,19,second,hazel,65,72,1,1,3,Yes,4,81,3,15
+male,21,fourth,blue,70,185,1,0,5,Yes,3,17,1,4
+male,21,fourth,blue,73,200,0,1,10,Yes,6,150,3,5
+female,19,second,green,67,150,2,1,18,No,0,30,0,16
+female,19,second,brown,67,135,1,1,6,Yes,2,43,0,1
+female,21,third,brown,70,90,0,1,2,No,0,15,0,2
+male,20,third,other,66,0,0,1,8,No,0,100,8,6
+male,23,other,green,69,20,2,2,4,Yes,6,43,3,2.5
+male,20,third,brown,69,370,0,2,10,No,0,120,1,5
+male,22,first,brown,72,1000,0,1,10,No,0,50,20,10
+male,21,third,brown,71,160,1,0,6.5,Yes,6,150,0.5,3
+female,20,second,green,64,150,0,1,4,Yes,6,100,10,12
+female,24,other,brown,60,700,1,2,10,No,0,25,2,4
+female,19,second,blue,62,45,1,1,2,No,0,73,4,3
+female,19,second,green,66,350,0,1,10,Yes,3,50,0,8
+male,20,third,blue,71,300,0,1,4,Yes,12,0,1,4.5
+female,20,third,brown,67,132,0,0,9,Yes,5,37,0,3.5
+female,19,second,blue,66,90,2,0,15,Yes,6.5,50,0,2
+female,20,third,green,72,320,2,0,7,No,0,60,0,14
+female,20,third,blue,63,220,2,2,1,Yes,4,0,0,3
+female,21,fourth,brown,65,60,3,1,1,No,0,200,0,16
+female,22,fourth,blue,67,175,4,2,6,No,0,175,3,28
+male,21,third,blue,72,140,1,0,3,No,0,25,0,10
+female,21,fourth,brown,66,10,0,1,15,No,0,35,0,10
+male,23,other,blue,72,30,0,1,7,Yes,8,60,8,21
+female,19,second,hazel,65,190,1,0,10,Yes,7,123,2,2
+male,22,fourth,hazel,69,10,1,2,8,Yes,6,150,0,1
+female,18,second,blue,66,889,2,0,4,No,0,35,2,4
+female,20,third,green,67,120,2,0,5,No,0,200,0,5
+male,21,fourth,brown,70,1400,1,0,12,Yes,8,4,5,8
+male,20,other,brown,69,65,1,2,6,No,0,130,4,8
+female,20,third,hazel,65,120,2,0,3,Yes,10,30,0,6
+female,22,other,green,64,150,1,2,2,Yes,4,10,0,20
+female,19,second,green,65,25,1,0,25,Yes,7,20,2,5
+female,20,third,hazel,68,400,0,3,14,Yes,7,100,0,6
+female,19,third,blue,67,40,2,1,12,Yes,3,30,1,3
+male,20,third,brown,70,209,1,1,3,Yes,4,450,1,4
+female,19,second,blue,69,40,0,2,10,Yes,5,50,1,4.5
+female,19,second,blue,66,180,0,2,6,Yes,3,20,1,15
+male,21,third,blue,69,100,1,1,1,Yes,5,50,0,2
+female,19,second,other,62,45,0,3,3,No,0,25,1,15
+male,24,third,green,73,350,2,1,5,Yes,10,45,2,1
+male,23,fourth,blue,64,40,1,1,30,No,0,50,1,3
+female,21,fourth,hazel,67,45,2,0,7,Yes,4,40,0,5
+female,20,third,blue,68,154,2,0,20,Yes,3,35,2,4
+female,19,second,green,64,45,1,1,4,No,0,200,0,6
+female,20,third,brown,65,0,1,1,3,No,0,50,0,3
+female,20,third,hazel,66,50,1,0,14,Yes,4.5,100,0,4
+female,19,second,blue,67,130,0,2,3,Yes,3,90,0,3
+male,20,second,blue,70,120,1,3,15,Yes,10,100,7,9
+female,22,third,brown,64,6000,0,3,15,No,0,100,15,10
+female,20,third,blue,65,43,0,2,4,Yes,3,70,0,10
+female,19,second,blue,72,20,1,1,35,No,0,75,7,28
+male,19,second,other,71,40,3,1,3,Yes,8,10,2,10
+male,20,second,brown,70,0,1,1,10,Yes,10,50,0,40
+female,26,third,hazel,68,150,0,1,12,Yes,4,250,2,12
+female,20,third,green,69,90,2,1,1,Yes,1,10,0,10
+male,20,third,blue,71,120,0,0,5,No,0,125,2,20
+female,19,second,brown,68,200,1,1,7,Yes,5,200,0.5,3
+male,18,first,blue,68,25,1,1,12,No,0,20,21,15
+female,20,third,blue,65,1000,1,0,20,No,0,175,2,5
+female,21,fourth,brown,63,65,2,3,10,No,0,50,5,5
+male,22,other,brown,69,60,1,1,28,Yes,2,43,2,20
+male,20,third,hazel,75,180,2,1,5,Yes,5,60,15,15
+female,22,fourth,green,66,0,2,0,3,Yes,5,20,5,10
+female,20,third,green,72,250,1,1,1,No,0,20,1,12
+male,22,other,brown,66,120,1,1,2,Yes,5,50,3,3
+female,22,fourth,blue,66,180,1,1,6,No,0,25,0,3
+male,19,second,blue,73,40,0,1,20,No,0,100,3,1
+female,20,third,brown,61,230,1,0,5,No,0,10,20,15
+female,20,third,brown,61,200,3,6,6,Yes,9,78,5,10
+female,31,fourth,brown,62,34,1,0,15,Yes,3,50,0,3
+male,21,third,blue,71,35,1,1,8,No,0,10,10,10
+male,20,third,hazel,72,180,0,0,5,No,0,100,10,10
+female,19,second,blue,67,60,2,1,21,Yes,5,200,4,14
+female,19,second,brown,66,60,2,1,20,No,0,100,1,21
+male,20,third,brown,74,235,1,1,10,Yes,10,189,0,3
+male,26,first,brown,70,5000,0,1,20,No,0,10,10,10
+male,20,third,brown,70,2500,0,0,10,Yes,5,50,10,20
+female,20,third,brown,64,300,0,3,10,No,0,50,0,10
+female,18,first,brown,67,35,0,1,8,No,0,30,3,5
+female,21,third,brown,64,50,1,3,2,No,0,100,0,5
+male,22,fourth,hazel,76,45,1,1,4,Yes,5,150,2,2
+male,20,third,blue,72,180,1,0,6,No,0,100,2,6
+female,19,second,green,64,100,1,1,2,No,0,50,1,2
+male,21,third,blue,70,100,2,0,2,Yes,7,10,0,10
+male,19,second,brown,71,388,0,1,10,No,0,350,0,4
+male,24,third,brown,77,90,2,0,2,Yes,4,50,0,3
+female,22,fourth,hazel,65,120,2,1,10,Yes,6,30,0,0
+male,21,fourth,blue,66,10,1,2,25,Yes,5,60,10,10
+male,22,other,blue,73,85,2,1,12,Yes,3,35,1,8
+male,21,fourth,blue,67,110,3,0,10,Yes,8,200,0,6
+female,21,third,brown,67,30,0,2,8,Yes,4,128,0,2
+female,20,second,green,68,105,0,1,6,Yes,5,56,0,5
+male,19,second,blue,74,130,2,0,15,Yes,4,20,10,10
+female,21,fourth,hazel,67,0,0,1,10,Yes,5,40,2,21
+male,20,third,blue,68,135,2,0,5,No,0,40,12,4
+female,19,second,blue,67,120,1,2,6,Yes,0,125,0,4
+female,19,third,blue,69,35,1,1,10,Yes,4,20,0,0
+male,20,third,brown,65,0,1,0,10,No,0,35,2,8
+male,19,second,brown,76,1381,0,1,5,Yes,3.5,36,10,15
+male,19,second,blue,69,140,1,1,10,Yes,10,20,15,5
+female,19,second,hazel,64,120,0,1,5,Yes,4.5,50,10,13
+female,20,third,blue,67,170,0,1,3,Yes,6,100,3,7
+female,20,third,blue,64,180,1,0,10,Yes,7,20,1,5
+female,20,third,hazel,70,210,0,1,7,No,0,50,0.5,5
+male,20,third,brown,72,113,0,1,5,Yes,5,50,0,4
+female,22,other,brown,61,326,1,1,65,No,0,55,20,21
+female,20,third,green,69,192,1,2,10,Yes,8,50,0,6
+male,22,first,brown,72,40,0,2,21,No,0,400,24,21
+male,20,third,blue,70,65,2,1,6,No,0,25,0,2
+female,19,second,brown,61,4000,0,1,10,No,0,60,0,0
+male,22,fourth,hazel,71,15,2,1,10,Yes,7,10,0,5
+male,20,third,brown,76,375,1,1,20,Yes,8,35,1,5
+male,20,third,brown,72,20,2,1,12,Yes,8,300,0,10
+female,19,second,blue,68,350,1,0,50,No,0,50,0.5,10
+female,20,third,brown,66,200,1,0,10,Yes,5,60,0,10
+male,19,second,blue,72,75,1,2,4,No,0,5,2,5
+male,19,second,brown,72,440,0,3,10,No,0,400,1,8
+male,21,third,hazel,75,200,1,3,5,No,0,20,15,20
+female,20,third,blue,66,400,0,1,6,Yes,4,150,1,0
+female,21,first,brown,66,7000,2,0,4,No,0,87,20,56
+female,20,third,brown,63,800,0,0,10,Yes,9,10,0,20
+female,19,second,blue,71,361.5,0,1,25,Yes,7,200,0,10
+male,21,fourth,brown,69,130,0,0,20,No,0,400,20,35
+female,20,third,brown,67,60,1,0,10,Yes,4,40,1,2
+female,21,third,brown,67,130,1,1,10,Yes,3,300,0,14
+male,22,fourth,blue,72,150,1,2,1,No,0,50,2,10
+female,19,second,blue,70,50,1,2,15,Yes,4,75,0,4
+male,21,second,brown,70,3000,1,0,5,No,0,0,10,2
+female,21,third,green,65,40,0,0,12,Yes,4,25,0,4
+female,20,third,brown,66,30,2,1,12,Yes,9,100,2,2
+male,22,fourth,blue,74,805.84,2,0,7,No,0,30,0,0
+female,20,third,blue,68,175,2,3,6,Yes,5,15,2,10
+male,18,first,blue,73,40,1,0,8,No,0,200,12,8
+female,20,third,hazel,60,250,0,0,6,Yes,3,100,1,5
+male,20,third,green,72,160,0,1,10,Yes,7,100,1,2
+female,20,third,brown,56,165,1,3,16,No,0,80,0,14
+female,21,fourth,green,66,120,1,1,15,Yes,8,100,4,8
+female,20,third,hazel,70,333,1,0,7,No,0,50,0.5,5
+female,18,first,hazel,62,120,2,2,8,Yes,2,120,0,2
+female,22,fourth,brown,67,30,1,4,8,No,0,35,2,20
+female,20,third,brown,67,134,1,1,4,Yes,3,27,2,2
+female,19,second,green,69,90,1,1,4,Yes,5,20,0,15
+female,20,third,blue,67,225,3,0,4,Yes,5,65,2,7
+female,21,third,blue,66,150,1,0,20,Yes,2,100,1,7
+female,22,other,blue,67,927,3,2,15,Yes,5,250,0,0
+female,21,other,brown,60,210,0,1,1,No,0,150,0,15
+female,20,third,green,66,60,3,1,1,Yes,3,10,0,10
+female,19,second,brown,66,350,0,1,20,No,0,45,1,10
+male,22,other,blue,72,110,1,2,15,Yes,4,150,1,14
+male,21,third,green,71,135,1,1,8,Yes,3,156,10,6
+female,20,third,hazel,61,30,1,1,15,Yes,7,60,1,9
+male,25,other,blue,71,37,1,3,5,No,0,25,0,0
+female,21,fourth,brown,66,8,1,1,1,Yes,0,30,0,2
+female,20,third,green,66,250,1,0,3,Yes,5,100,0,10
+female,20,third,brown,63,750,1,0,21,Yes,6,64,0,3
+male,21,third,blue,69,200,0,2,5,Yes,3,100,8,15
+female,23,other,hazel,62,180,1,0,5,No,0,40,0,10
+female,19,second,brown,66,200,0,1,20,No,0,170,0,2
+female,20,third,brown,68,330,0,2,25,Yes,4,35,4,20
+female,20,third,blue,71,150,1,2,21,No,0,2,2,14
+female,21,fourth,brown,60,250,1,0,5,No,0,120,0,5
+female,20,second,brown,63,250,2,1,18,Yes,6,90,0,0
+male,23,other,green,74,40,4,1,40,Yes,2,100,5,20
+female,19,second,blue,70,225,1,1,10,Yes,3,45,0,2
+female,20,third,brown,69,100,1,1,4,Yes,2,10,1,3
+male,21,third,blue,70,198,2,0,85,Yes,4,50,1,15
+male,20,third,blue,72,230,0,1,3,Yes,4.5,30,10,5
+male,38,first,other,67,6000,2,0,3,No,0,0,0,7
+female,21,fourth,hazel,62,2000,1,1,1,Yes,22,150,0,4
+female,22,fourth,blue,65,200,0,1,3,Yes,3,30,0,6
+male,21,fourth,brown,70,375,0,2,4,Yes,8,150,2,10
+male,19,second,hazel,72,120,1,1,16,Yes,9,70,3,5
+male,21,third,brown,75,110,0,1,15,No,0,25,3,15
+female,20,third,hazel,68,150,2,2,10,No,0,200,2,10
+female,17,first,brown,66,550,1,1,3,No,0,100,0,10
+female,20,third,green,63,210,2,2,23,Yes,5,600,0,0
+male,21,fourth,brown,72,300,1,0,10,Yes,10,200,3,15
+male,21,fourth,green,76,40,0,2,4,Yes,6,330,10,6
+male,20,third,blue,74,208,1,1,10,Yes,9,120,1,4
+female,20,fourth,brown,65,0,4,4,10,Yes,3,35,1,1
+female,19,second,green,68,40,2,0,15,Yes,10,50,0,4
+female,20,third,brown,62,2300,1,0,20,No,0,10,5,70
+female,19,second,hazel,63,250,1,0,10,Yes,4,100,0.5,4
+male,25,third,hazel,71,40,0,1,3,No,0,300,0,15
+male,20,third,blue,77,360,0,1,10,Yes,7,0,5,10
+female,20,third,brown,67,62,2,1,10,No,0,50,3,30
+male,25,fourth,blue,74,125,1,2,8,Yes,8,0,1,12
+female,21,fourth,brown,62,35,1,0,6,Yes,3,400,4,6
+male,21,other,hazel,72,93,1,0,20,Yes,4.5,10,4,10
+male,20,second,brown,72,212,3,3,2,Yes,3,20,1,2
+male,21,fourth,brown,70,200,0,1,5,No,0,40,5,5
+male,19,second,brown,68,180,4,0,8,Yes,8,100,1,30
+male,20,third,green,74,65,1,1,2,No,0,30,5,15
+male,21,third,hazel,67,45,2,1,3.5,Yes,6,250,2,3
+female,19,third,brown,71,620,1,0,21,Yes,8,100,0,2
+female,20,third,green,63,120,1,1,15,Yes,6,40,0,10
+male,19,second,blue,71,180,0,1,14,Yes,9,60,10,21
+female,21,fourth,green,64,60,0,2,3,Yes,6,2,0,9
+male,24,second,blue,72,90,1,1,4,Yes,6,100,4,10
+female,19,second,brown,61,45,2,0,2,Yes,5,20,0,14
+male,22,other,green,73,0,0,0,15,No,0,40,2,1
+female,20,third,hazel,63,0,0,3,3,Yes,9,15,2,7
+female,19,second,other,67,110,2,1,4,Yes,9,25,0,5
+female,19,second,brown,64,25,0,1,9,Yes,9,100,0,9
+male,20,second,other,72,5900,1,0,8,Yes,1,15,2,12
+male,20,third,hazel,70,212,0,2,20,No,0,200,1,12
+male,21,fourth,hazel,72,320,0,0,20,Yes,6,50,10,10
+female,36,fourth,blue,71,30,0,3,10,No,0,50,2,5
+female,23,fourth,green,69,120,0,1,3,Yes,3,100,3,3
+female,20,third,green,66,215,1,0,2,Yes,3.5,50,2,3
+female,19,second,brown,64,100,1,1,14,Yes,6,40,0,5
+male,19,second,hazel,72,100,0,1,2,Yes,8,30,10,10
+female,21,fourth,green,66,40,1,0,10,Yes,4,150,0.5,4
+female,20,third,green,63,210,0,1,30,Yes,3,50,5,21
+male,22,fourth,blue,70,100,0,1,15,Yes,7.5,300,0,10
+male,23,other,hazel,70,220,2,1,2,Yes,15,50,15,7
+male,20,third,blue,68,200,0,1,1,No,0,60,3,10
+female,21,fourth,hazel,67,240,1,1,20,Yes,3,30,2,5
+male,24,other,green,70,456,1,1,15,No,0,50,15,5
+female,23,other,brown,65,20,2,0,7,No,0,75,3,7
+female,20,third,hazel,65,30,0,1,7,Yes,3,100,0,10
+male,20,second,hazel,74,185,3,1,5,No,0,5,0.5,3
+male,19,second,green,78,140,0,1,8,No,0,20,0,7
+female,20,second,blue,63,60,0,2,10,Yes,1,35,1,7
+female,21,third,brown,67,85,1,0,5,Yes,5,10,0,1
+male,18,first,blue,72,100,1,1,10,Yes,4,100,35,35
+female,19,second,brown,68,35,1,1,7,Yes,6,30,2,13
+male,21,third,green,70,150,0,1,4,Yes,3,75,4,4
+male,21,third,blue,72,120,2,2,5,No,0,40,2,15
+female,21,fourth,blue,63,215,3,0,4,Yes,4,40,2,3
+male,20,third,brown,71,243,1,0,20,Yes,8,120,0,3
+female,23,other,blue,63,90,2,1,10,Yes,4,75,1,20
+female,21,third,blue,62,40,0,1,20,Yes,12,30,0,5
+male,21,second,brown,67,100,0,2,15,Yes,4,85,3,8
+male,19,first,green,74,40,1,0,10,No,0,9,25,10
+male,21,third,brown,70,0,0,0,19,No,0,100,6,18
+female,18,first,brown,68,170,4,2,10,No,0,100,3,35
+female,20,second,blue,69,113,1,0,20,No,0,50,4,8
+male,23,fourth,brown,75,100,1,1,5,Yes,5,25,0,5
+female,19,first,green,64,46,1,2,30,No,0,50,2,0
+male,21,third,blue,79,40,0,1,5,Yes,5,50,20,20
+male,22,fourth,green,76,45,3,3,4,Yes,4,300,6,5
+male,21,third,hazel,72,82,3,1,8,Yes,4,25,1,5
+female,21,third,blue,65,0,4,2,35,Yes,3,100,0,2
+female,19,second,brown,69,100,0,1,6,Yes,2,100,1,3
+female,20,second,hazel,68,200,1,0,15,Yes,4.5,30,0,0.5
+female,28,third,blue,63,35,2,0,4,Yes,3,75,1,7
+female,22,fourth,blue,68,95,1,0,10,Yes,4,100,3,15
+female,20,third,hazel,65,40,2,0,15,Yes,3,40,1,18
+female,21,third,blue,68,15,1,1,3,Yes,10,100,0,15
+female,21,third,blue,69,98,0,3,13,Yes,6,44,0,2.5
+male,20,second,hazel,70,99,0,2,20,No,0,2,10,20
+male,19,first,blue,61,60,3,1,20,Yes,6,30,1,5
+male,20,third,blue,72,300,0,1,10,No,0,0,20,20
+female,22,fourth,blue,64,87,0,1,2,No,0,1400,0,2
+female,20,third,blue,69,345,1,0,5,Yes,5,20,5,15
+female,20,second,blue,63,200,2,0,10,Yes,10,100,1,2
+male,20,second,brown,73,100,3,0,20,Yes,8,10,20,7
+male,21,third,hazel,76,150,1,2,6,Yes,4.5,20,6,1
+male,19,second,blue,74,150,1,1,3,No,0,30,8,15
+female,18,first,blue,65,359,2,1,2,No,0,30,0,10
+female,27,other,blue,62,175,2,0,20,Yes,5,35,2,10
+male,18,first,blue,71,30,3,0,30,Yes,8,7,0,5
+male,19,second,brown,71,160,0,0,14,No,0,12,0,1
+female,22,other,brown,66,100,0,1,7.5,No,0,30,7.5,1
+female,18,first,blue,65,146,4,0,5,Yes,8,20,2,20
+male,20,second,brown,73,200,0,0,28,Yes,7,150,0,7
+female,23,other,blue,67,300,1,1,10,Yes,4,40,0,3
+male,18,first,blue,70,50,1,0,4,No,0,5,10,5
+male,22,fourth,blue,72,250,1,1,5,No,0,20,0,15
+female,19,second,green,67,170,1,0,4,Yes,5,30,0,2
+male,20,second,blue,77,75,2,0,14,No,0,45,2,15
+female,20,third,blue,68,175,1,2,7,No,0,75,7,6
+female,19,second,brown,69,130,0,2,5,No,0,150,2,10
+female,20,third,blue,68,10,2,1,5,No,0,75,1,5
+male,22,second,other,70,6000,1,2,80,No,0,17,15,20
+female,20,third,blue,71,60,0,1,2,No,0,50,0,15
+female,21,third,hazel,68,60,2,3,5,Yes,4,50,0,5
+male,20,second,blue,74,323,1,0,8,Yes,12,75,0,8
+female,20,second,hazel,64,150,0,1,30,Yes,5,35,0,1
+female,19,second,hazel,65,220,3,0,30,Yes,5,94,0,6
+female,20,second,blue,68,500,1,0,3,No,0,40,0,5
+female,21,fourth,blue,67,45,0,2,20,No,0,40,1,4
+male,18,first,blue,72,153,1,1,15,No,0,50,30,7
+female,18,first,blue,66,140,1,3,5,Yes,2,20,10,0
+male,20,second,brown,76,184,1,2,15,Yes,4,20,5,25
+female,20,third,brown,66,3000,3,0,10,No,0,100,5,20
+female,23,other,blue,67,4,0,0,24,Yes,5,30,0,14
+male,25,fourth,brown,66,10000,0,1,10,Yes,3,20,3,10
+female,19,second,hazel,66,50,3,3,4,Yes,2,50,1,14
+female,21,third,green,67,189,1,0,15,Yes,6,35,1,10
+female,18,first,blue,63,175,1,1,10,No,0,30,0,0
+female,20,second,brown,65,60,1,2,10,No,0,20,0,14
+female,18,first,hazel,64,140,2,0,14,Yes,0.5,25,0,0.5
+female,19,second,blue,67,300,1,1,15,Yes,10,25,0,3
+female,22,fourth,green,69,40,1,1,40,No,0,175,1,5
+female,19,second,blue,67,80,1,2,15,Yes,5,25,1,15
+female,18,second,blue,65,590,1,1,15,Yes,4,60,0,3
+female,20,third,brown,66,45,4,2,40,Yes,5,10,3,8
+female,19,second,green,65,211,0,4,6,No,0,60,7,7
+female,19,"first""",blue,68,250,2,0,12,Yes,5,24,0,7
+female,19,second,blue,68,370,0,3,25,No,0,25,0,14
+female,20,second,green,63,101,1,2,2,Yes,0,20,0,3
+female,20,second,brown,62,220,1,0,10,No,0,10,0,3
+female,20,third,hazel,62,330,0,0,8,Yes,5,20,4,6
+female,21,third,brown,61,0,0,2,2.5,Yes,5,50,1,5
+female,18,first,brown,64,5,1,0,12,Yes,5,26,1,4
+female,21,third,brown,64,31,1,0,2,No,0,25,0,12
+female,39,fourth,hazel,67,40,1,1,4,Yes,5,30,0,10
+male,19,second,hazel,75,0,1,2,10,Yes,6,20,24,24
+female,19,second,blue,68,155,1,1,3.5,No,0,55,0.5,20
+female,20,second,blue,65,40,0,1,6,Yes,3.5,20,0,6
+female,24,other,green,70,140,5,1,8,Yes,8,45,0,8
+male,19,third,hazel,69,200,1,0,1,Yes,2,40,5,12
+female,20,second,hazel,62,48,1,0,3,Yes,2,45,2,8
+male,20,second,hazel,78,120,2,0,15,Yes,8,200,0,2
+female,21,third,green,67,100,1,4,5,Yes,4,25,0,30
+male,21,second,blue,70,60,0,1,10,No,0,30,0,5
+female,22,fourth,brown,65,222,2,1,5,Yes,3,10,0,10
+male,21,third,hazel,72,200,1,1,4,No,0,10,4,12
+female,21,third,brown,62,96,0,1,1,Yes,3,52,0,3
+female,20,second,green,62,0,1,0,10,Yes,2,25,0,5
+male,20,second,blue,68,225,0,2,5,Yes,4,15,2,12
+female,21,third,green,62,126,0,0,2,Yes,5,20,0,4
+male,21,fourth,blue,71,145,0,3,2,Yes,5,15,0,12
+female,22,fourth,brown,63,0,1,0,3,Yes,1,60,0,20
+male,21,third,blue,74,200,1,0,2,Yes,5,93,1,3
+male,21,third,brown,65,200,1,1,24,Yes,4,200,1,8
+female,22,fourth,hazel,68,60,1,0,12,Yes,3,15,1,12
+male,19,first,blue,77,350,2,1,2,Yes,8,30,1,2
+male,21,third,blue,70,150,2,1,15,No,0,120,5,3
+male,20,second,hazel,70,60,0,1,5,No,0,40,1,8
+male,20,second,hazel,71,193,1,1,4,No,0,100,8,4
+male,20,second,green,76,180,0,2,6,Yes,13,40,1,5
+female,20,second,hazel,69,25,1,1,10,Yes,6,300,0,8
+male,20,third,brown,70,0,0,1,10,No,0,25,20,4
+male,20,second,hazel,72,200,2,1,17.5,Yes,9,40,2,14
+female,20,third,blue,61,35,1,0,3,No,0,30,0,8
+male,19,second,blue,71,201,0,1,20,No,0,10,9,14
+female,21,third,brown,68,20,1,0,5,No,0,30,0,4
+male,21,third,blue,73,117,1,2,10,Yes,3,10,0,5
+male,24,third,brown,74,9,1,1,4,Yes,5,400,0,8
+female,26,fourth,green,63,7,1,0,4,No,0,250,0,1
+female,47,fourth,brown,63,0,5,2,4,Yes,2,50,0,4
+male,20,second,blue,73,189,1,0,5,Yes,6,200,0,4
+male,20,second,brown,70,50,1,0,1,No,0,25,5,10
+female,25,other,brown,62,1035.6,0,2,10,No,0,100,0,20
+male,21,third,hazel,71,84,1,2,10,Yes,5,12,4,2
+male,18,first,brown,73,1528,0,1,60,No,0,25,3,22
+female,20,second,brown,63,150,2,2,10,Yes,3,10,1,1
+male,21,fourth,green,73,30,2,0,15,No,0,70,2,12
+male,21,fourth,other,73,80,2,2,10,Yes,4,100,0,2
+male,20,third,blue,70,220,1,1,3,Yes,4,50,5,10
+male,20,second,hazel,72,115,0,2,2,Yes,30,25,0.25,0.5
+female,20,third,hazel,68,33,1,4,5,Yes,4,50,0,7
+male,20,second,green,73,300,4,1,4,Yes,9,1,2,4
+female,20,second,blue,69,190,1,0,7,Yes,3,250,2,10
+male,21,fourth,blue,71,326,1,0,10,Yes,4,60,2,15
+female,21,fourth,hazel,67,30,1,1,20,No,0,10,0,10
+male,28,second,brown,67,17,1,1,2,No,0,35,1,4
+male,21,third,brown,75,90,2,0,1,Yes,6,50,4,15
+female,20,second,blue,64,220,1,0,20,Yes,6,25,2,10
+male,22,fourth,brown,72,15,2,0,10,No,0,100,10,10
+female,21,third,blue,63,120,0,0,5,No,0,10,10,30
+female,20,third,hazel,67,100,5,1,3.5,Yes,8.5,12,0,11
+female,19,second,green,67,195,1,0,6,Yes,8,25,0,4
+female,22,fourth,hazel,66,60,1,1,2,No,0,100,0,10
+female,19,second,brown,68,210,1,0,5,Yes,10,30,1,6
+female,21,fourth,green,65,185,1,2,5,Yes,6,3,0,10
+male,20,second,hazel,72,50,2,0,1,No,0,100,6,10
+male,27,fourth,brown,72,800,3,0,10,No,0,125,5,10
+male,21,fourth,blue,75,40,0,0,5,Yes,7,18,2,15
+female,27,third,hazel,67,0,2,1,2,No,0,108,1,4
+female,18,first,blue,68,250,1,0,20,No,0,20,7,30
+female,20,second,brown,61,3500,1,0,5,No,0,250,2,2
+male,22,fourth,hazel,72,158,1,0,12,Yes,0,300,0,2
+female,19,second,blue,72,150,2,0,7,Yes,12,20,2,10
+female,18,first,blue,61,25,0,2,6,No,0,65,0,10
+male,20,third,hazel,69,120,0,2,3,No,0,50,15,15
+female,21,fourth,brown,70,25,0,0,10,Yes,10,100,0,8
+female,19,second,green,66,215,0,1,10,Yes,6,250,0,0
+female,20,third,blue,61,30,1,1,10,No,0,70,3,10
+male,21,third,blue,69,185,1,0,20,Yes,26,50,2,10
+male,20,second,blue,70,100,0,2,5,No,0,30,15,2
+male,19,second,green,68,180,1,2,2,Yes,10,50,2,5
+female,19,second,green,67,280,2,0,4,Yes,2,164,0,2
+female,22,fourth,green,72,60,1,2,6,No,0,30,0,4
+female,21,third,blue,68,25,2,0,4,Yes,3,50,2,7
+female,22,third,blue,64,250,1,4,5,Yes,0,30,0,10
+female,20,third,green,70,350,0,1,15,Yes,3,100,1,5
+female,21,fourth,blue,66,110,1,0,4,No,0,20,0,10
+female,20,second,brown,62,140,1,3,5,No,0,50,1,5
+female,21,third,blue,64,80,3,0,5,Yes,4,100,0,6
+female,33,fourth,brown,60,45,1,0,12,No,0,5,1,12
+male,20,third,green,72,150,0,1,10,Yes,10,11,3,7
+female,27,other,brown,69,300,3,0,3,Yes,1,100,0,4
+female,23,fourth,brown,62,385,1,1,4,Yes,7,85,0,6
+male,23,third,brown,68,25,1,2,2,Yes,5,100,3,5.5
+female,20,third,blue,65,424,0,1,2,No,0,40,10,25
+male,20,second,blue,72,35,2,1,4,Yes,6,150,2,4
+female,20,third,brown,67,1050,2,0,20,Yes,7,30,0,1
+male,20,third,brown,72,70,1,0,21,Yes,3,550,4,5
+female,18,first,blue,68,130,0,1,5,Yes,7,7,0,2
+female,23,third,brown,60,6750,0,1,35,No,0,3,0,0
+male,20,second,green,68,125,0,0,10,No,0,25,20,4
+female,22,fourth,hazel,63,20,4,2,5,Yes,2,75,0,10
+female,19,second,hazel,67,30,1,1,30,Yes,5,30,0,15
+male,23,other,brown,75,165,1,1,8,Yes,14,75,7.5,45
+male,20,second,blue,69,136,5,0,12,Yes,14,25,5,21
+male,19,first,hazel,75,0,0,1,1,Yes,5,100,5,5
+male,20,second,brown,71,30,2,0,10,Yes,9,200,5,5
+male,20,third,blue,72,92,2,1,5,No,0,40,5,15
+female,19,second,blue,72,170,0,1,14,No,0,25,0,2
+male,19,first,brown,72,315,0,2,6,No,0,10,5,10
+female,19,first,blue,66,800,1,1,9,Yes,14,50,0,4
+female,20,third,green,63,8,0,2,15,Yes,0,50,1,4
+male,20,second,blue,73,190,1,0,7,No,0,120,5,25
+male,18,first,blue,73,78,1,0,30,No,0,73,5,5
+male,18,first,blue,75,150,0,2,3,Yes,6,100,3,5
+female,20,third,blue,66,844,0,1,7,Yes,7,100,7,9
+female,19,second,brown,67,1800,1,0,8,Yes,9,101,0,3
+male,20,second,brown,72,35,1,0,15,No,0,115,45,35
+male,20,second,hazel,75,120,2,0,12,Yes,15,100,0,5
+male,50,other,hazel,75,1800,1,2,40,Yes,5,25,0,2
+male,20,second,other,72,200,1,1,10,No,0,32,5,5
+male,18,first,brown,76,20,1,1,5,Yes,5,250,1,10
+female,20,third,blue,66,100,2,1,80,No,0,85,3,2
+male,19,second,brown,69,300,2,1,3,Yes,2,200,10,10
+male,21,third,blue,68,250,0,1,7,Yes,7,100,14,14
+female,20,second,brown,64,120,0,2,24,Yes,4,112,2,3
+male,20,third,blue,69,1275.25,2,1,8,Yes,15,78,0.5,7
+female,19,first,blue,65,770,2,1,20,No,0,40,0,5
+male,21,fourth,blue,72,120,2,0,20,Yes,5,15,2,2
+female,20,second,brown,71,70,2,0,14,No,0,30,0,7.5
+male,19,second,blue,69,200,1,0,12,Yes,5,19,7,4
+male,19,second,brown,72,320,3,1,15,Yes,5,0,0,2
+male,22,fourth,blue,69,75,1,2,3,Yes,5,3,0,5
+male,20,second,hazel,74,360,1,0,10,Yes,5,0,2,15
+male,20,second,blue,70,50,3,0,7,Yes,7,100,1,20
+female,20,third,blue,65,220,1,0,8,Yes,5,5,0,9
+female,19,first,blue,66,270,1,0,6,No,0,100,0,0
+male,21,third,blue,73,230,0,1,3,Yes,5,200,1,8
+male,23,third,blue,70,192,0,1,6,Yes,6,275,0,5
+male,19,first,blue,69,190,0,1,5,Yes,6,50,4,3
+male,19,second,green,68,45,1,1,2,Yes,3.5,20,2,10
+female,18,first,hazel,66,220,0,1,4,No,0,50,4,15
+male,19,first,green,73,30,0,1,3,No,0,20,16,4
+female,20,second,green,69,50,3,3,12,Yes,6,25,0,8
+male,20,second,blue,74,100,0,2,5,No,0,20,0,5
+female,21,fourth,brown,64,23,1,2,20,Yes,6,40,5,5
+male,22,other,brown,70,100,0,2,20,No,0,23,1,15
+female,20,second,blue,72,230,2,0,6,No,0,90,1,1
+male,22,fourth,green,72,125,3,0,20,Yes,2,100,0.5,5
+female,20,third,brown,67,150,1,0,15,Yes,6,150,0,14
+female,20,second,brown,64,250,1,0,15,Yes,5,100,0,5
+female,20,third,green,65,270,1,0,20,Yes,7,60,0,10
+female,19,second,blue,70,250,1,0,10,Yes,5,100,0,7
+female,20,third,hazel,65,200,1,0,3,Yes,10,5,1,7
+female,19,second,brown,69,20,3,0,2,No,0,35,0,6
+male,20,second,green,72,160,0,1,2,Yes,3,50,3,10
+male,21,fourth,hazel,72,1,2,0,3,No,0,65,2,4
+female,20,second,green,65,50,0,4,14,Yes,7,40,1,3
+female,21,fourth,blue,67,35,0,2,12,Yes,6,50,0,12
+male,22,fourth,blue,72,60,1,1,6,Yes,5,12,5,15
+female,19,second,blue,62,1800,6,2,8,No,0,12,0,7
+female,20,third,blue,67,20,0,1,7,No,0,65,0,14
+female,19,second,green,67,50,1,0,3,Yes,2,100,1,3
+male,23,other,hazel,70,20,2,2,8,No,0,20,5,5
+female,23,other,brown,69,30,2,1,3,Yes,4,30,0,6
+female,19,first,green,72,200,2,1,10,Yes,7,100,0,5
+male,19,second,blue,66,75,0,1,4.5,No,0,97,1.5,2.5
+male,20,second,brown,72,120,0,0,10,Yes,7,53,10,15
+female,21,third,brown,66,176,2,2,7,Yes,3,50,2,5
+female,21,second,brown,64,1000,1,2,25,No,0,10,1,5
+male,20,second,hazel,73,140,1,1,10,No,0,50,15,30
+female,18,first,green,60,20,0,3,15,Yes,2.5,75,5,2
+male,20,second,blue,74,90,2,1,10,Yes,0,100,5,20
+male,18,first,blue,67,110,1,3,2,No,0,8,5,6
+female,23,third,brown,66,215,1,0,5,Yes,4,200,5,2
+female,20,second,green,64,720,1,0,12,Yes,2.5,124,1,20
+male,20,second,brown,69,20,0,0,6,Yes,2,100,5,6
+female,19,first,brown,64,182,0,2,5,Yes,5,20,5,10
+female,19,second,brown,63,0,1,2,5,Yes,4,50,1,12
+male,19,first,brown,70,1412.47,0,2,5,Yes,9,42,0,2
+male,23,other,blue,72,90,3,1,6,No,0,10,2,20
+male,20,second,blue,70,245,0,2,9,Yes,2,20,1,3
+female,19,third,blue,64,215,0,1,5,Yes,5,30,0,8
+female,20,second,hazel,64,1400,0,1,4,Yes,5,50,1,6
+female,21,fourth,brown,63,385,0,1,6,Yes,4,75,0,3
+male,25,other,blue,72,220,0,1,15,No,0,50,2,35
+male,26,other,green,72,90,1,3,15,Yes,5,100,2,5
+male,23,fourth,hazel,70,120,0,3,10,Yes,6,50,0,10
+male,21,third,blue,72,100,2,1,25,No,0,500,1,5
+male,21,third,hazel,72,40,0,1,6,Yes,10,25,10,14
+female,20,second,blue,70,94,1,0,20,Yes,2,30,5,10
+male,20,second,hazel,69,260,1,2,10,Yes,8,75,10,20
+female,20,second,hazel,67,23,1,1,5,Yes,5,100,1,10
+male,25,other,brown,76,99,2,1,10,Yes,7,200,5,15
+female,20,third,brown,65,211,1,0,21,Yes,3,200,0,15
+female,19,first,green,61,0,1,0,6,No,0,150,1,5
+male,22,other,brown,77,200,3,0,25,No,0,90,2,10
+male,20,second,green,72,300,1,1,15,Yes,8,20,2,50
+male,21,third,hazel,70,196,2,0,40,No,0,120,12,7
+male,19,first,brown,72,300,0,1,5,No,0,70,1,3
+female,18,first,brown,68,35,0,1,5,No,0,20,10,4
+male,20,third,blue,73,200,1,3,10,Yes,8,75,0,14
+male,20,second,brown,73,170,1,1,6,Yes,4,71,2,6
+female,21,third,blue,66,120,0,2,10,No,0,50,0,4
+male,20,second,brown,78,0,1,1,2,Yes,10,20,4,20
+male,21,fourth,blue,69,250,2,0,8,No,0,52,12,15
+male,20,second,blue,70,100,1,1,4,Yes,6,105,2,10
+female,20,third,green,68,150,1,0,3,No,0,10,3,1
+female,20,first,blue,61,347.47,0,2,10,No,0,80,5,10
+female,20,second,blue,68,90,1,1,2,No,0,20,5,5
+male,20,third,green,77,350,1,0,2,Yes,5,60,0,6
+male,23,second,hazel,70,60,2,1,2,No,0,25,0,6
+female,24,other,green,65,30,0,2,18,No,0,50,0,8
+male,20,third,blue,75,150,2,1,5,Yes,8,30,0,2
+male,19,second,brown,66,109,2,3,10,Yes,4,12,20,20
+male,22,fourth,blue,72,1042.92,0,2,10,Yes,2,0,0,10
+female,21,third,brown,66,40,2,2,15,Yes,6,25,1,10
+male,23,fourth,hazel,72,340,1,1,20,No,0,124,2,1
+female,21,third,brown,65,60,1,0,5,No,0,20,0,3
+male,21,third,other,72,35,0,0,10,Yes,5,40,15,20
+female,20,third,hazel,67,35,0,1,3,No,0,100,0,20
+male,20,first,blue,70,75,0,1,10,Yes,5,80,5,20
+female,18,first,green,65,1700,0,0,12,Yes,8,45,0,4
+female,20,second,brown,64,0,1,0,5,Yes,4,50,0,10
+male,21,third,brown,75,215,2,1,12,No,0,20,2,12
+female,20,third,green,61,75,4,2,12,No,0,200,2,10
+female,19,second,hazel,69,240,0,2,4,Yes,14,24,2,2
+female,20,third,green,69,20,0,1,5,Yes,6,20,2,10
+male,20,second,blue,74,65,1,2,40,Yes,3,20,3,2
+male,20,second,hazel,72,35,0,1,4,Yes,7,120,12,25
+male,23,fourth,blue,69,30,1,2,14,Yes,6,250,2,21
+female,20,third,blue,63,0,1,1,3,Yes,3,100,0,10
+female,20,third,green,68,200,2,1,10,Yes,6,46,1,10
+female,21,third,blue,69,232,1,0,7,No,0,200,1,6
+female,21,third,blue,59,350,0,1,15,Yes,5,55,0,1
+female,22,fourth,brown,74,144,1,1,3,Yes,3,14,0,4
+male,18,first,hazel,68,180,0,0,5,Yes,3,85,2,1
+female,19,second,brown,63,182.5,1,0,10,Yes,0,42,6,5
+male,19,first,green,72,12,0,1,17.5,No,0,70,2,4
+female,20,third,brown,67,160,1,0,11,Yes,4.5,100,1,5
+female,18,first,blue,60,90,0,1,15,Yes,6,75,0,14
+male,25,other,blue,71,68,2,1,5,Yes,4.5,12,8,8
+female,20,third,green,62,250,1,1,4,Yes,6,40,0,7
+male,21,third,brown,72,180,3,2,4,No,0,100,0,10
+female,20,third,brown,68,0,1,0,6,No,0,53,3,5
+male,24,other,brown,68,180,0,1,7,Yes,10,200,12,8
+female,21,third,brown,67,52,1,1,15,Yes,9,150,0,8
+female,19,second,brown,70,75,0,1,50,No,0,30,1,4
+female,20,third,hazel,67,45,1,0,10,Yes,10,40,0,20
+female,23,first,blue,65,46,0,2,10,Yes,5,6,0,12
+female,20,third,green,69,35,3,2,10,Yes,3,200,0,6
+female,20,third,hazel,67,333,1,1,12,Yes,3,126,0,5
+male,21,third,brown,68,600,1,0,5,Yes,0,200,5,20
+female,19,first,blue,63,500,0,0,20,No,0,70,2,20
+female,19,second,hazel,67,25,0,1,30,Yes,4,20,0.5,14
+female,19,first,blue,64,150,1,1,10,Yes,4,50,5,10
+male,18,first,brown,67,0,1,0,14,No,0,100,3,3
+female,20,third,green,65,45,1,0,40,No,0,75,1,12
+male,22,other,hazel,72,400,0,1,4,Yes,4,200,6,17
+female,19,second,brown,67,100,1,3,2,Yes,3,20,0,2
+female,19,second,blue,66,15,2,2,25,Yes,4,100,0,15
+female,19,second,brown,66,40,1,1,12,No,0,150,3,5
+female,19,first,green,64,12,2,0,8,Yes,3,15,0,6
+male,20,third,blue,71,119,2,0,25,No,0,,6,6
+male,22,fourth,blue,71,40,0,1,10,No,0,150,0,2
+male,20,second,hazel,70,250,2,2,3,No,0,80,10,3
+female,19,first,green,65,75,0,3,20,Yes,10,54,2,5
+female,21,fourth,brown,64,60,1,0,4,Yes,0,40,0,30
+male,24,other,brown,70,150,0,1,10,No,0,15,0,10
+male,20,second,hazel,74,90,0,1,20,Yes,3,200,1,10
+female,21,third,green,68,120,0,1,4,No,0,500,0,7
+female,19,second,hazel,65,150,4,4,10,Yes,7,50,0,15
+female,21,third,blue,73,60,0,4,7.5,Yes,5,56,0,18
+male,18,first,blue,69,180,1,1,3,Yes,5,50,5,15
+female,19,second,blue,67,200,0,3,20,No,0,50,1,7
+female,20,second,green,68,150,0,1,49,No,0,25,0,2
+female,20,second,green,63,152,3,2,14,Yes,1.5,80,0.5,7
+male,21,third,blue,74,140,0,0,8,No,0,0,8,5
+female,23,other,blue,64,138,0,2,5,No,0,200,0,12
+female,22,fourth,blue,62,145,1,2,15,Yes,5.5,15,0,6
+female,23,other,brown,63,145,1,0,10,No,0,50,5,10
+female,19,second,hazel,70,250,2,0,37.5,Yes,7.5,75,0,17
+male,21,third,brown,78,100,0,3,15,Yes,0,20,0,12
+male,19,second,blue,73,260,0,1,10,Yes,2,50,0,20
+female,20,third,brown,65,166,1,1,10,No,0,70,0.3,2
+male,21,third,blue,72,80,1,1,10,Yes,10,200,12,6
+male,20,second,hazel,68,200,2,0,26,Yes,16,0,0,1
+female,19,second,green,65,126,1,1,4,No,0,80,0,2
+male,19,first,green,71,40,1,0,10,No,0,30,10,21
+female,19,second,blue,62,120,1,0,15,Yes,4,50,3,2
+male,19,first,brown,67,180,0,1,10,No,0,10,1,9
+female,20,second,green,70,40,1,0,12,Yes,3,45,4,5
+male,19,second,brown,76,34,1,0,10,Yes,3,,2,6
+male,22,third,blue,68,240,0,1,3,Yes,2,10,0,3
+female,18,first,other,68,10000,0,0,25,No,0,50,2,1
+male,31,first,brown,69,0,2,1,5,Yes,6,30,0,5
+male,20,second,blue,73,200,1,0,22,Yes,3.5,5,2,10.5
+female,21,fourth,blue,67,125,1,0,20,Yes,1,10,0,15
+female,19,third,green,66,350,0,2,20,No,0,30,2,10
+female,19,second,hazel,62,200,3,2,30,Yes,7,50,0,30
+female,19,second,brown,67,200,1,1,5,Yes,1,60,0,1
+female,21,third,blue,67,0,0,1,48,No,0,150,1,6
+female,33,other,green,64,90,2,0,10,Yes,4,20,0,4
+male,18,first,hazel,69,15,1,0,7,Yes,3,30,1,2
+male,21,third,blue,77,80,1,0,30,Yes,10,50,0,4
+male,21,third,green,72,60,0,1,5,No,0,30,10,10
+female,19,second,blue,66,65,2,1,3,Yes,2,,1,8
+female,19,first,brown,69,223,3,3,20,Yes,6,30,2,6
+female,22,fourth,brown,63,160,3,3,5,Yes,5,30,0,12
+male,22,fourth,brown,75,375,0,1,15,Yes,5,25,20,25
+male,20,third,brown,67,200,1,0,25,No,0,10,1,10
+female,22,fourth,brown,61,35,0,1,20,Yes,6,50,5,20
+female,19,second,blue,67,0,5,5,4,No,0,0,0,3
+male,23,fourth,green,76,200,1,0,4,No,0,,4,5
+male,20,second,blue,72,150,0,0,7,No,0,380,5,8
+male,20,second,brown,71,173,2,2,4,Yes,6,88,1,1
+female,18,first,brown,61,30,3,4,10,No,0,30,4,4
+male,22,fourth,brown,72,160,0,2,10,Yes,5,10,4,15
+male,18,first,green,71,70,0,1,4,Yes,4,50,5,10
+male,20,second,brown,68,1076,1,0,7,Yes,13,20,4,21
+female,21,fourth,brown,68,30,1,1,4,No,0,30,0,5
+male,21,third,hazel,69,175,0,2,12,Yes,4,150,8,6
+male,21,third,blue,79,193,0,1,10,Yes,6,400,0,60
+male,21,third,green,74,135,2,0,1,Yes,10,50,2,3
+male,19,first,brown,70,102.5,3,3,4,No,0,20,7,3
+female,23,other,brown,65,183,0,3,49,Yes,4,300,0,3
+male,19,first,brown,68,,1,0,10,Yes,3,10,10,5
+male,23,other,brown,71,175,1,3,5,Yes,10,40,4,10
+female,19,second,green,71,0,2,1,12,No,0,100,0,5
+female,19,second,hazel,66,240,0,1,50,No,0,47,0,1
+female,23,other,blue,64,300,0,2,20,No,0,10,0,8
+female,18,first,brown,72,100,0,1,15,Yes,4,100,0,20
+female,20,third,brown,66,0,2,0,2,No,0,50,0,10
+male,18,first,blue,61,,2,0,6,Yes,10,100,45,5
+female,20,second,hazel,66,179,1,0,5,Yes,9,30,3,2
+male,19,second,brown,71,35,0,1,30,No,0,20,18,1
+female,19,second,blue,68,30,3,0,40,Yes,6,50,0,0
+female,20,second,blue,64,380,2,1,5,Yes,10,2,0,5
+male,18,first,hazel,70,195,4,0,15,Yes,7,10,4,3
+male,20,second,blue,73,5,0,4,7,Yes,8,50,1,4
+female,18,first,blue,66,100,2,2,3,Yes,10,50,0,6
+female,25,third,blue,71,260,1,2,15,Yes,6,5,3,15
+female,19,first,hazel,68,0,2,0,6,Yes,7,100,0,2
+female,20,second,brown,65,200,1,2,30,Yes,5,120,0,10
+female,19,first,blue,66,30,2,1,5,Yes,0,,1,3
+female,20,second,green,70,200,1,0,,Yes,9,20,1,14
+male,19,second,blue,73,105,0,2,4,No,0,15,3,3
+female,18,first,hazel,64,170,1,1,3,Yes,2.5,32,4,1
+male,21,third,blue,72,96,1,1,15,Yes,5,25,2,5
+male,19,first,hazel,74,137,0,1,10,No,0,55,0.5,20
+female,22,fourth,blue,,190,1,0,20,No,0,20,0,10
+male,23,other,hazel,72,155,0,1,14,Yes,12,400,1,10
+male,18,first,blue,73,85,1,1,20,Yes,7,78,2,20
+male,20,second,brown,72,150,1,1,25,Yes,4,100,10,25
+female,20,second,hazel,73,125,2,0,20,No,0,60,0,5
+male,20,third,brown,74,50,3,0,3,Yes,3,75,3,16
+female,21,third,brown,65,0,0,0,30,Yes,3,20,5,3
+female,20,second,hazel,63,400,1,1,20,No,0,200,3,2
+female,18,first,brown,65,190,4,0,10,Yes,5,80,2,10
+female,21,third,hazel,62,180,0,2,20,Yes,5,200,0,14
+female,18,first,brown,65,7500,1,0,25,Yes,3,50,0,0
+female,22,fourth,hazel,62,110,0,3,10,No,0,30,0,10
+female,19,first,green,67,150,1,0,,Yes,2.5,25,0,5
+female,19,first,hazel,65,800,1,1,15,Yes,6,105,0,3
+male,29,fourth,hazel,69,175,2,2,2,No,0,500,3,6
+male,20,third,green,67,190,2,0,28,Yes,7,10,1,7
+female,20,second,brown,63,70,2,2,5,No,0,30,0,3
+female,22,fourth,brown,62,175,1,0,2,Yes,3,80,0,8
+female,20,second,hazel,62,52,1,0,12,Yes,7,30,0,10
+female,18,first,green,63,60,1,0,15,Yes,4,3,0,0
+female,19,second,hazel,70,360,1,0,20,Yes,3,100,0,1
+male,22,fourth,blue,72,0,0,0,25,Yes,4,110,10,10
+male,19,first,blue,72,40,1,0,10,Yes,8,5,5,20
+male,20,third,hazel,72,0,3,0,5,Yes,6,50,3,7
+male,21,third,brown,72,90,3,0,2,No,0,30,0.5,10
+female,23,third,brown,62,900,0,0,15,Yes,2,70,1,5
+male,22,third,blue,72,108,3,4,8,No,0,300,2,1
+female,23,other,brown,65,222,2,1,15,Yes,4,10,0,15
+female,19,second,brown,64,120,2,0,20,No,0,40,0,15
+male,21,third,blue,70,230,0,1,15,Yes,4,300,10,10
+male,19,first,green,69,150,1,1,3,Yes,2,30,1,3
+male,21,third,brown,67,50,0,2,10,Yes,4,52,20,12
+male,23,third,hazel,72,80,0,2,20,Yes,5,20,2,25
+female,20,second,hazel,65,90,0,1,15,No,0,200,2,20
+male,19,second,blue,67,90,2,1,5,Yes,6,50,8,5
+female,20,second,brown,63,120,1,0,5,Yes,4,60,0,3
+male,21,third,hazel,72,193,1,1,10,No,0,100,15,15
+female,19,second,blue,63,170,1,1,6,Yes,8,100,0,2
+female,22,other,green,64,48,0,1,15,Yes,8,750,0,7.5
+female,20,third,brown,63,150,1,0,21,Yes,4,50,0,20
+female,22,fourth,blue,65,350,1,2,5,Yes,5,200,1,15
+female,19,second,hazel,63,300,1,0,10,No,0,60,0,4
+female,19,second,blue,68,204,2,1,48,Yes,3,10,0,10
+male,21,third,blue,71,100,1,0,2,Yes,3.5,30,3,1
+male,21,fourth,hazel,69,160,1,1,5,Yes,0,100,20,20
+male,22,third,blue,69,15,0,2,7,No,0,100,0,10
+male,21,fourth,blue,67,180,0,1,12,Yes,5,90,0.5,10
+female,25,third,hazel,64,198,2,0,15,Yes,5,40,5,5
+male,19,first,brown,65,90,0,0,20,No,0,0,0,40
+female,21,fourth,hazel,66,350,2,1,10,Yes,3,25,0,15
+male,20,second,blue,75,321,2,1,9,Yes,4,200,1,4
+male,19,first,blue,75,160,0,1,20,No,0,10,12,20
+female,20,second,blue,68,150,1,1,10,Yes,5,100,0,2
+male,23,fourth,blue,72,25,2,1,6,No,0,30,25,5
+female,20,third,blue,65,200,1,0,1,No,0,300,0,15
+female,20,second,brown,70,140,0,1,,No,0,100,2.5,10
+female,20,second,hazel,66,131,3,0,12,Yes,7,47,4,3
+male,20,third,hazel,70,100,0,2,10,Yes,4,20,0.5,5
+male,27,third,blue,71,180,1,0,7,No,0,50,0,12
+male,24,fourth,green,72,30,0,1,20,Yes,7,200,0,9
+male,21,fourth,blue,69,85,1,2,7,Yes,5,120,3,4
+female,20,second,blue,67,130,1,2,21,Yes,5,18,1,6
+male,18,first,brown,73,140,1,0,9,Yes,2,80,4,14
+male,20,third,blue,74,215,0,2,3,No,0,75,2,17
+female,20,second,hazel,64,90,1,0,20,No,0,50,5,18
+male,20,second,brown,70,10,1,1,7,No,0,15,3,7
+male,20,third,green,68,292,0,1,3,Yes,5,100,1,10
+male,20,third,blue,75,400,4,1,1,Yes,6,250,5,10
+female,20,second,blue,68,100,0,1,8,Yes,5,50,6,14
+female,20,second,hazel,64,0,2,0,35,Yes,2,10,1,35
+female,19,second,hazel,64,250,0,0,12,Yes,7,75,3,7
+female,19,second,brown,63,0,1,0,21,No,0,70,0,1
+male,21,fourth,green,70,9,1,1,25,No,0,65,3,2
+female,19,first,blue,64,411,0,1,12,Yes,3,100,0,12
+male,20,third,brown,70,75,1,1,10,No,0,40,2,15
+male,20,second,brown,75,300,1,3,6,No,0,0,3,3
+male,22,fourth,hazel,70,45,2,3,20,No,0,100,10,10
+female,20,third,blue,65,25,0,2,15,No,0,30,1,10
+female,19,second,brown,60,12089,0,1,60,No,0,20,10,100
+female,20,second,brown,70,247,0,2,4,Yes,3,75,0,4
+female,19,first,brown,67,90,1,1,20,Yes,6,10,3,10
+male,19,second,green,67,400,0,1,2,Yes,3,340,20,10
+female,20,third,brown,64,180,3,1,10,No,0,20,1,35
+female,19,second,blue,65,200,1,2,20,No,0,75,1,5
+female,19,second,blue,66,135.2,1,1,12,Yes,4.5,89,0,13
+female,20,second,brown,61,120,0,1,5,Yes,2,20,0,6
+male,19,first,other,72,120,0,1,20,No,0,30,3,6
+female,19,first,brown,66,300,2,2,35,Yes,4,50,7,30
+male,23,other,hazel,71,150,0,1,20,Yes,7,15,0,20
+female,20,second,blue,62,150,1,0,16.5,Yes,3.5,60,0,1.5
+female,19,first,brown,67,312,1,0,8,Yes,4,70,3,8
+male,18,first,hazel,70,70,0,1,25,Yes,5,5,2,5
+female,21,third,green,66,20,0,2,4,Yes,6,50,0,20
+male,20,second,blue,74,100,2,1,6,Yes,7,13,0,1.5
+female,19,second,blue,66,140,1,2,3,No,0,20,0,5
+female,19,second,brown,68,,0,2,10,No,0,30,10,10
+male,22,other,other,,1700,3,0,6,Yes,20,10,1,3
+male,18,first,blue,76,50,0,1,24,Yes,10,125,2,6
+male,21,third,brown,76,15,2,0,5,No,0,50,1,10
+female,21,third,blue,63,185,2,5,20,Yes,3,20,0,5
+male,23,other,brown,67,15,6,0,12,Yes,12,40,10,21
+male,19,second,hazel,71,400,1,1,30,No,0,,20,20
+female,21,third,blue,67,1838,1,0,15,Yes,4,53,0,5
+female,20,second,hazel,67,40,0,1,3,Yes,3.5,56,0.5,5
+male,19,second,brown,73,500,0,1,20,Yes,8,0,0,2
+female,19,second,hazel,70,90,0,2,15,No,0,15,0,10
+female,19,second,blue,63,156,3,0,15,Yes,2,25,0.5,12
+female,20,second,brown,66,330,0,1,20,Yes,12,150,1,5
+male,21,third,hazel,64,180,1,1,15,No,0,10,0,25
+female,20,third,green,68,600,1,0,3,Yes,5,75,0,7
+female,21,third,blue,64,170,0,1,20,Yes,5,50,0,7
+female,20,second,brown,67,300,3,1,6,Yes,10,100,2,14
+female,20,second,brown,65,50,3,1,3,No,0,50,4,6
+male,20,second,brown,68,45,0,1,10,Yes,4,,1,10
+female,20,second,blue,66,65,0,2,15,Yes,3,25,0,10
+male,20,second,hazel,68,120,2,0,50,No,0,50,0,5
+female,21,fourth,brown,70,20,1,0,3,Yes,12,,0,7
+male,18,first,blue,69,139,1,0,35,No,0,2,3,30
+female,20,third,brown,62,5000,2,1,5,No,0,40,5,5
+female,33,first,brown,65,,3,4,10,Yes,5,10,10,5
+female,22,fourth,green,65,0,1,0,2,Yes,4,300,0,14
+female,18,first,hazel,66,200,1,1,14,Yes,6,75,2,2
+female,18,first,brown,65,40,4,0,4,No,0,9,2,13
+female,19,second,blue,72,0,1,0,5,Yes,3,54,0,10
+male,24,third,other,67,6500,1,0,4,No,0,10,5,3
+female,20,third,blue,67,14,0,0,1,Yes,7,50,0,10
+female,23,other,brown,62,1200,5,0,10,No,0,75,0,3
+female,20,third,blue,63,60,3,2,35,No,0,30,0,14
+male,24,third,green,76,0,0,3,25,Yes,4,100,3,18
+male,21,second,brown,,8000,1,0,35,Yes,3,,28,0
+male,19,second,blue,75,120,1,0,15,Yes,3,212,1,10
+female,18,first,blue,69,200,0,1,30,No,0,20,2,23
+female,21,third,brown,70,180,3,3,10,Yes,5,60,0,3
+male,20,third,hazel,72,176,1,0,35,No,0,80,3,5
+female,20,third,hazel,70,420,1,0,50,No,0,,0,20
+male,20,second,blue,68,288,1,1,15,Yes,6,25,2,10
+male,27,third,green,69,1600,2,4,15,Yes,4,50,5,3
+male,23,third,blue,69,170,0,1,2,Yes,14,53,0,5
+female,21,third,brown,64,60,0,1,5,No,0,30,1,10
+male,19,second,brown,75,,2,0,40,No,0,10,1,8
+female,19,second,brown,66,200,0,1,15,Yes,2,50,0,2
+male,21,fourth,green,72,35,0,1,15,Yes,8,80,8,15
+female,25,fourth,brown,64,7000,1,0,35,No,0,50,1,0
+male,20,second,green,73,210,0,1,10,Yes,5,50,1,15
+female,19,first,blue,61,120,0,1,15,Yes,3,60,0,1
+female,20,second,blue,67,140,1,0,5,No,0,50,0,20
+male,20,second,blue,71,60,0,0,20,Yes,7,100,0,2
+female,20,third,blue,69,155,1,2,5,Yes,3,153,25,6
+female,20,third,brown,67,76,1,0,6,No,0,48,0,6
+female,20,third,hazel,64,90,2,0,1,Yes,6,20,0,7
+female,18,first,hazel,65,45,0,0,7,Yes,3,13,1,2
+female,19,second,hazel,,120,1,1,15,No,0,36,0,10
+female,19,second,blue,70,180,4,2,15,No,0,25,0,4
+male,20,second,blue,78,110,1,0,10,Yes,4,30,0,5
+female,19,second,brown,64,120,1,1,5,No,0,100,0,20
+male,19,second,blue,74,176,0,0,8,No,0,70,10,6
+female,20,second,green,64,100,0,1,4,Yes,6,100,0,2
+female,19,first,blue,70,90,0,1,15,Yes,11,60,0,7
+female,21,fourth,brown,62,10,3,2,10,Yes,3,30,2,5
+male,20,second,green,68,167,1,0,6,Yes,7,70,16,14
+male,27,third,brown,68,6500,0,1,1,Yes,1,,0.5,0.5
+male,22,third,brown,74,175,0,1,8,Yes,6,120,1,7
+male,26,fourth,brown,72,30,0,1,3,No,0,100,0,28
+male,18,first,brown,76,45,0,1,12,Yes,8,15,2,8
+female,20,second,blue,63,30,0,2,4,No,0,60,0,3
+female,21,fourth,hazel,70,45,1,0,20,Yes,3,100,2,12
+female,19,second,brown,64,158,1,0,20,No,0,500,0,10
+female,26,other,green,70,1132,0,1,50,Yes,5,40,0,0
+female,22,other,green,67,30,2,2,75,Yes,10,80,0,20
+female,21,third,other,68,4950,0,1,20,Yes,15,100,0,6
+female,20,second,blue,64,40,1,2,10,Yes,3,40,0,20
+male,22,fourth,green,67,9,1,0,5,Yes,4,20,18,12
+male,19,first,brown,70,175,0,1,40,No,0,10,0,1
+male,19,second,blue,75,15,0,1,1,Yes,3,100,1,10
+male,19,second,brown,70,55,1,1,35,Yes,4,0,1,1
+female,19,first,blue,68,0,0,1,3,Yes,6,11,0,30
+female,20,second,hazel,64,225,1,0,110,Yes,4,30,1,7
+female,21,fourth,green,63,140,1,0,20,Yes,8,100,4,4
+female,18,first,green,66,232,4,1,30,Yes,9,100,0,0
+male,23,other,hazel,78,0,1,1,10,Yes,4,35,0,3
+male,22,third,blue,71,130,2,2,,Yes,6.5,30,1.5,6
+female,21,fourth,other,71,180,1,0,6,No,0,100,1,3
+female,18,first,brown,60,,0,2,70,No,0,30,7.5,30
+male,23,third,hazel,77,330,1,0,20,Yes,6,300,0,10
+female,20,third,blue,67,160,0,1,25,Yes,5,45,1,1
+male,20,third,blue,69,60,1,1,39,No,0,26,0,6
+female,19,first,brown,65,227,0,1,28,No,0,100,0,1
+female,20,second,brown,64,120,1,3,8,Yes,7,100,0,10
+male,20,second,blue,75,180,0,1,20,No,0,3,4,15
+female,20,second,brown,62,160,0,1,7,Yes,4,50,1,5
+female,20,third,hazel,68,180,0,1,3,Yes,3,30,1,8
+female,20,third,blue,,35,6,4,3,No,0,15,0,10
+male,21,third,green,72,70,1,1,12,Yes,3,50,3,24
+male,22,fourth,hazel,78,120,2,0,20,No,0,100,1,6
+male,20,second,hazel,76,100,0,1,2,Yes,4,14,14,28
+male,20,third,green,78,200,0,0,10,Yes,9,20,10,10
+male,20,second,blue,70,15,1,1,15,Yes,3,250,3,15
+female,19,second,brown,62,60,0,1,10,Yes,1,25,5,5
+male,20,second,brown,75,2500,4,0,14,No,0,5,1,10
+male,20,third,blue,73,15,0,1,10,Yes,2,50,1,10
+female,19,first,blue,66,35,0,1,20,No,0,66,2,0
+female,21,third,brown,70,190,0,1,8,Yes,3,5,8,1
+male,19,first,blue,65,458,0,2,50,Yes,4,100,2,20
+female,20,third,green,,45,1,0,8,Yes,4,50,3,15
+female,20,second,blue,69,50,0,1,5,Yes,4,50,0,8
+female,18,first,brown,65,0,0,0,5,Yes,2,5,1,6.5
+male,20,second,hazel,69,0,0,2,18,Yes,5,40,3,15
+male,20,second,brown,72,200,0,0,3,Yes,3,100,0,2
+male,21,third,brown,72,70,0,1,5,Yes,5,50,5,15
+male,21,third,green,71,375,0,2,10,Yes,6,45,8,12
+male,20,second,blue,68,220,3,1,20,Yes,10,100,10,30
+female,21,third,green,70,45,0,2,4,No,0,300,1,6
+male,20,second,green,72,140,1,0,4,Yes,2,40,12,12
+male,20,second,brown,67,100,1,2,9,No,0,50,2,6
+female,21,third,hazel,65,140,1,0,20,No,0,20,0,3
+male,18,first,blue,71,150,0,2,10,Yes,10,20,3,1
+male,21,fourth,other,69,20,1,0,20,Yes,6,20,20,80
+male,21,third,brown,74,35,1,2,8,No,0,30,2,20
+male,20,second,green,69,140,3,0,12,Yes,2,5,0,2
+female,20,third,blue,69,210,1,0,12,No,0,10,0.5,10
+female,20,third,hazel,69,65,1,1,14,Yes,10,46,5,7
+male,24,second,brown,74,167,0,1,28,No,0,50,3,25
+female,19,second,brown,64,125,1,1,15,Yes,4,20,0,5
+female,20,second,green,66,130,0,1,10,Yes,6,50,0,7
+female,18,first,blue,56,570,0,1,12,Yes,14,100,21,14
+female,18,first,brown,70,70,2,0,10,Yes,5,25,0,1
+female,20,third,blue,64,165,0,2,10,Yes,10,100,5,3
+female,19,second,blue,66,0,1,0,20,Yes,3.5,30,1,15
+male,20,third,green,62,20,1,0,10,Yes,6,20,10,5
+male,20,second,green,70,350,0,2,10,No,0,100,0,5
+male,21,third,hazel,77,200,2,1,4,Yes,15,40,0,4
+female,21,third,brown,64,45,2,0,7,No,0,100,1,20
+male,22,third,brown,72,35,0,1,10,Yes,6,50,1,15
+male,19,second,green,72,15,0,2,4,Yes,4,20,1,4
+male,20,second,brown,69,30,2,0,15,No,0,200,3,20
+male,21,fourth,brown,77,375,1,0,5,Yes,10,40,10,15
+male,21,third,green,72,30,1,1,2,Yes,5,100,0,2
+female,19,second,brown,65,220,0,1,15,No,0,130,5,5
+male,29,second,blue,69,6300,0,4,24,No,0,2,7,1
+female,18,first,blue,69,105,1,2,10,Yes,7,21,0,0
+female,28,fourth,other,66,6350,0,1,10,No,0,50,3,10
+male,20,second,blue,70,157,1,4,28,No,0,45,0,2
+male,18,first,brown,73,2070,2,0,15,Yes,6.5,100,15,15
+female,19,second,blue,77,75,0,1,15,Yes,3,200,0,7
+male,20,second,hazel,72,136,0,0,36,No,0,70,2,4
+female,21,fourth,green,64,150,2,2,7,No,0,25,0,5
+male,20,second,brown,76,120,1,1,4,No,0,21,20,20
+female,21,fourth,hazel,69,100,0,1,10,Yes,7,250,6,10
+female,20,third,brown,67,65,2,0,4,No,0,20,0,25
+female,19,second,blue,64,300,1,1,5,Yes,7,10,0,15
+male,22,fourth,blue,73,180,0,1,10,Yes,4,20,2,12
+male,21,third,blue,71,1300,1,1,6,Yes,6,40,0,10
+male,21,third,green,72,110,0,2,15,Yes,6,25,5,15
+female,20,third,brown,61,200,1,0,15,No,0,10,0,6
+female,19,second,brown,65,115,1,2,20,No,0,55,0,5
+male,19,second,brown,72,35,2,2,20,Yes,5,100,0,7
+male,23,third,brown,72,145,1,3,10,Yes,8,100,0,2
+male,20,second,green,65,119,0,1,21,Yes,4,4,1,1
+female,20,second,blue,71,30,0,1,20,No,0,80,1,14
+male,23,other,blue,76,100,0,3,1,Yes,4,,0,0
+female,18,first,brown,66,450,0,1,20,No,0,75,0,10
+male,19,second,brown,71,220,1,1,50,Yes,5,250,4,4
+male,21,third,green,75,30,0,1,8,Yes,9,60,2,15
+male,20,second,brown,70,182,1,3,10,Yes,14,25,6,8
+male,22,fourth,blue,75,70,1,0,2,Yes,6,7,3,7
+female,20,third,brown,67,368,2,1,20,Yes,6,,4,4
+female,19,first,brown,66,,0,0,30,Yes,5,1,0,0
+male,20,third,brown,73,185,1,0,42,No,0,10,8,3
+female,24,fourth,blue,66,750,0,1,10,No,0,300,0,6
+female,22,fourth,hazel,70,250,0,0,15,Yes,0,50,1,5
+female,25,other,blue,65,40,0,1,24,No,0,50,2,10
+female,19,second,blue,69,230,1,0,8,Yes,4,60,2,10
+female,22,fourth,blue,65,25,0,1,20,Yes,8,50,0,10
+male,20,third,blue,71,160,1,0,24,Yes,3,50,1,7
+male,21,second,brown,68,40,0,2,4,Yes,10,15,6,4
+male,21,fourth,blue,75,50,0,1,,Yes,3,10,1,20
+male,20,second,hazel,67,150,0,2,15,Yes,14,150,0,10
+female,23,other,brown,66,352,1,0,30,Yes,10,37,10,6
+male,20,third,hazel,74,350,1,1,8,No,0,150,15,3
+female,20,third,hazel,66,180,0,2,10,No,0,10,0,2
+female,19,second,blue,62,230,2,0,12,No,0,200,0,4
+female,20,third,blue,68,115,2,1,12,No,0,57,3,1
+male,21,fourth,blue,73,20,2,0,10,No,0,76,20,10
+male,19,second,brown,70,200,2,7,14,Yes,4,40,10,10
+female,19,second,green,63,,0,1,15,Yes,4.5,,0,5
+female,21,third,blue,65,200,2,1,14,Yes,14,20,0,2
+male,19,second,blue,73,130,1,0,10,No,0,465,30,12
+female,20,second,blue,67,200,1,1,5,Yes,2,150,1,2
+female,30,third,green,69,100,3,1,15,Yes,7,200,0,20
+male,19,second,brown,67,350,1,1,4,Yes,10,500,0,10
+female,19,second,brown,67,1000,1,1,5,Yes,5,3,3,12
+male,19,second,blue,71,180,2,0,7,Yes,5,50,1,10
+male,27,other,blue,74,100,2,2,2,No,0,60,0,10
+female,20,third,brown,68,120,0,1,30,No,0,,0,20
+female,20,third,blue,64,362,2,1,15,No,0,30,0,4
+male,19,second,blue,73,235,2,2,10,No,0,3,7,10
+male,19,second,brown,70,226,0,1,12.5,Yes,7.5,100,0,2
+female,20,third,brown,67,45,0,1,12,Yes,3,125,0,5
+female,19,second,brown,64,220,2,1,4,No,0,30,1,3
+male,21,fourth,blue,71,70,1,2,,Yes,10,30,0,3
+female,21,third,brown,64,,1,2,7,No,0,,0,6.5
+female,26,third,blue,67,45,1,1,14,No,0,115,0,21
+male,20,fourth,brown,76,250,0,5,3,Yes,9,239,4,3
+male,19,second,green,72,40,1,1,6,Yes,6,150,0,12
+female,19,third,green,66,55,0,5,5,Yes,10,20,0,15
+female,21,fourth,blue,61,200,2,0,12,Yes,3,70,5,5
+female,20,third,hazel,64,25,1,0,6,No,0,56,0,6
+male,12,first,brown,,1,1,1,11,Yes,0,1,11,12
+male,23,fourth,blue,72,1200,1,0,18,Yes,17,40,0,25
+male,19,second,blue,72,130,2,1,30,No,0,35,1,5
+male,20,second,other,75,11,0,2,7,No,0,25,35,4
+female,20,third,blue,69,200,2,1,5,Yes,12,30,15,7
+male,21,third,hazel,68,20,1,2,6,Yes,7,3,6,3
+male,21,fourth,brown,75,65,5,1,10,No,0,100,10,10
+female,19,second,blue,67,350,1,1,6,Yes,8,100,0,1
+male,20,second,hazel,65,130,1,0,5,No,0,0,2,10
+female,21,second,hazel,59,15,0,0,20,No,0,15,0.5,4
+male,19,second,blue,71,333,1,0,30,No,0,150,10,20
+female,19,second,green,65,222,0,1,4,Yes,4,20,0,6
+female,20,second,other,62,57,1,0,14,Yes,0,100,1,7
+male,22,second,blue,75,140,1,0,20,No,0,100,4,4
+female,20,third,hazel,63,30,0,3,8,Yes,4,80,1,7
+male,22,fourth,hazel,69,300,0,1,18,Yes,8,200,5,15
+female,19,third,hazel,66,76,0,1,14,Yes,4,97,0,5
+male,20,third,brown,72,60,1,0,10,Yes,8,150,1,7
+female,19,second,brown,64,30,1,0,4,Yes,1,6,0,12
+female,20,third,brown,66,220,0,1,10,No,0,150,5,15
+female,19,second,green,65,180,1,1,7,Yes,8,60,1,3
+male,20,third,hazel,68,1600,1,0,5,Yes,6,8,40,10
+male,20,third,hazel,74,90,0,0,20,No,0,3,10,15
+female,19,second,blue,59,80,2,0,2,No,0,13,7,15
+female,21,third,hazel,65,45,0,1,9,Yes,2,70,0,3
+female,20,third,blue,69,30,0,1,8,No,0,,1,6
+male,19,second,hazel,68,30,1,1,10,Yes,5,20,40,15
+male,19,second,blue,78,350,1,2,20,No,0,10,14,20
+male,19,second,green,74,230,2,0,10,No,0,70,4,8
+female,20,third,blue,69,0,0,1,7,Yes,7,100,0,1
+male,19,second,blue,75,10,0,2,2,Yes,4,50,6,2
+female,19,second,hazel,66,120,1,0,12,Yes,8,100,2,9
+male,19,second,blue,73,180,2,1,5,Yes,10,20,10,5
+female,21,fourth,brown,65,22,1,2,10,Yes,3,100,0,10
+male,20,second,blue,69,40,1,1,14,Yes,12,50,7,10
+female,20,third,brown,69,9000,0,1,44,No,0,0,0,8
+female,23,third,other,63,6500,1,0,30,No,0,30,0,14
+male,22,other,blue,66,45,2,2,12,Yes,7,300,0,8
+male,22,other,brown,62,352,1,2,10,No,0,50,10,9
+male,20,third,brown,65,30,1,0,10,Yes,4,4,5,20
+male,19,third,brown,71,200,1,1,2,Yes,4.5,128,2,4
+male,19,second,brown,71,330,1,0,25,Yes,7,150,0,21
+female,19,second,green,70,200,0,1,2,No,0,200,1,10
+male,21,third,hazel,72,175,1,2,10,No,0,,30,20
+female,26,second,green,63,15,2,2,12,Yes,3,10,0,2
+male,19,second,hazel,71,371,0,1,15,Yes,12,500,0,6
+female,19,second,green,67,30,0,2,50,No,0,500,0,5
+male,20,third,brown,72,150,0,1,4,Yes,10,3,0,5
+female,19,second,green,66,180,2,1,15,No,0,35,0,14
+female,19,first,other,65,1000,2,1,21,No,0,10,0,0
+female,19,second,green,59,10,0,0,6,Yes,3,83,2,0
+male,18,first,blue,68,150,2,1,7,Yes,2,200,1,3
+male,20,third,blue,73,40,2,1,5,Yes,0,20,10,25
+male,20,third,hazel,69,45,0,0,20,No,0,75,5,10
+male,29,fourth,other,72,0,2,0,50,No,0,300,0,10
+male,22,fourth,blue,71,115,1,2,5,No,0,5,5,5
+female,19,second,brown,62,120,2,1,25,No,0,25,0,0
+female,21,fourth,green,67,45,0,2,30,No,0,17,0,21
+female,22,other,brown,68,500,0,1,30,Yes,8,100,0,10
+female,21,fourth,brown,64,93,1,0,15,Yes,0,150,0,4
+male,20,third,hazel,74,350,1,1,100,Yes,4.5,100,0,20
+male,25,third,green,,5000,4,0,12,Yes,4,50,0,7
+male,19,second,brown,68,160,2,1,3,Yes,4,100,0,1
+female,18,second,hazel,68,699,2,0,6,No,0,30,2,7
+male,18,first,brown,70,30,1,1,5,Yes,4,8,8,16
+male,20,third,brown,73,20,0,2,30,No,0,20,2,4
+female,20,third,other,65,190,1,0,14,Yes,6,100,0,3
+female,19,second,brown,67,90,0,1,15,Yes,5,25,1,4
+male,19,second,brown,70,30,2,0,20,Yes,5,0,0,5
+female,23,other,brown,64,2000,1,0,10,Yes,3,50,0,
+female,19,second,blue,64,170,1,0,10,Yes,20,76,2,12
+female,19,second,brown,69,1039,0,1,7,Yes,0,32,5,14
+male,19,second,blue,71,190,1,0,20,Yes,15,125,2,5
+male,19,second,hazel,76,300,0,1,8,No,0,140,5,8
+female,22,other,green,64,190,1,4,2,No,0,10,0,10
+female,30,first,brown,,300,0,1,15,Yes,5,50,4,2
+male,21,fourth,brown,68,350,1,1,5,No,0,0,2,7
+female,22,fourth,blue,66,120,1,0,7,Yes,8,20,0,2
+male,21,third,hazel,67,25,1,1,12,No,0,15,20,20
+male,26,other,brown,68,30,0,2,15,No,0,50,0,1
+male,23,other,blue,66,111,1,1,7,Yes,5,111,2,20
+male,19,second,brown,77,60,1,2,20,Yes,5,30,2,10
+male,19,second,hazel,72,375,1,0,5,Yes,4,30,0,3
+male,20,second,blue,73,200,1,1,6,Yes,6,25,1,4
+male,21,third,blue,71,170,1,0,5,No,0,,0,3
+female,20,fourth,hazel,72,100,1,0,6,Yes,7,300,1.5,5
+female,24,fourth,blue,68,95,1,1,7,No,0,30,0,1
+male,21,third,blue,70,90,0,1,25,Yes,0,25,6,10
+female,21,second,brown,63,25000,0,0,14,No,0,30,4,21
+male,21,third,green,78,200,1,1,15,No,0,10,2,10
+female,19,second,green,67,150,1,1,5,Yes,3,80,7,6
+female,19,second,blue,70,260,1,1,21,Yes,7,10,0,5
+female,20,third,hazel,67,300,0,0,5,Yes,10,50,0,10
+female,19,second,hazel,62,150,1,0,4,Yes,2,32,2,2
+female,20,third,green,56,0,1,0,8,Yes,4,25,0,8
+male,20,second,blue,73,45,1,1,8,No,0,50,3,10
+male,20,third,other,70,48,1,0,10,Yes,4,,0,8
+male,20,second,blue,71,50,1,1,5,Yes,4,30,15,15
+male,20,second,blue,70,200,2,0,15,Yes,0,100,4,10
+female,22,fourth,green,64,45,0,2,2,Yes,8,150,0,6
+male,24,other,blue,72,30,2,1,24,Yes,4,30,5,5
+male,28,fourth,blue,71,200,1,0,10,No,0,50,0,10
+female,19,second,brown,69,,0,0,28,Yes,5,25,0,14
+female,19,second,green,64,72,0,2,8,Yes,10,12,0,0
+female,20,third,blue,64,100,0,7,7,No,0,100,10,7
+male,19,second,brown,67,42,2,1,10,No,0,4,10,10
+male,19,second,brown,76,137,0,2,20,Yes,4,75,8,12
+male,34,fourth,brown,74,90,0,2,4,No,0,25,0,1
+male,22,fourth,blue,72,50,0,1,6,No,0,30,0,3
+female,20,third,green,65,150,0,1,3,Yes,9,50,0,3
+male,20,third,blue,70,195,3,1,7,Yes,5,100,0,6
+female,21,fourth,blue,68,400,1,0,25,Yes,5,30,0,5
+female,21,fourth,blue,70,180,2,1,10,Yes,10,25,0,10
+male,19,second,green,74,130,1,1,10,Yes,4,0,8,2
+female,19,second,green,61,1500,2,1,25,No,0,75,0,10
+female,18,first,brown,66,200,0,2,8,No,0,100,4,10
+female,19,second,brown,62,,1,0,12,No,0,100,2,3
+female,19,second,blue,57,140,1,4,7,Yes,7,60,0,14
+female,21,fourth,blue,64,171,0,1,15,No,0,70,0,10
+male,22,fourth,brown,76,130,1,0,21,Yes,15,120,0,5
+male,19,second,brown,71,175,0,1,22.5,Yes,8,0,0,4
+male,19,second,brown,73,300,0,1,28,Yes,0,150,0,10
+male,21,third,blue,76,28,1,5,5,Yes,2,20,7,10
+female,23,other,hazel,64,80,1,0,8,Yes,6,20,0,5
+male,21,fourth,brown,71,60,0,0,40,No,0,20,0,8
+male,20,third,brown,72,330,0,1,35,No,0,30,13,20
+male,23,other,brown,69,1600,1,1,3,Yes,5,50,0,15
+female,21,other,brown,62,250,5,5,5,No,0,20,0,5
+male,19,second,blue,65,117,1,1,6,Yes,4,100,1,12
+female,21,fourth,blue,65,60,0,1,3,Yes,4,10,0,5
+male,19,second,green,73,137,2,3,14,No,0,0,2,2
+female,19,second,hazel,67,300,0,2,20,Yes,10,25,0,10
+male,20,third,blue,67,700,0,1,30,Yes,7.5,200,2,15
+female,19,second,blue,68,90,0,2,10,Yes,7,12,0,2
+female,20,third,brown,65,16,1,1,7,No,0,250,0,15
+female,20,second,blue,65,170,1,3,14,No,0,50,0,24
+female,20,second,hazel,66,190,2,1,6,Yes,4,50,0,11.5
+male,20,second,hazel,67,30,0,0,10,No,0,40,3,2
+male,20,third,hazel,69,180,2,0,8,Yes,7,150,0,2
+male,19,second,hazel,70,135,2,2,14,Yes,2.5,15,10,17
+male,22,first,brown,70,2000,0,0,20,No,0,50,2,10
+female,22,other,brown,60,1044,2,2,10,No,0,100,0,20
+female,21,fourth,brown,62,30,2,1,15,Yes,6,100,1,4
+male,20,third,brown,72,283,0,1,35,Yes,6,50,6,8
+male,21,fourth,green,74,116,0,1,2,Yes,6,,2,12
+female,21,fourth,brown,63,35,2,1,20,Yes,3,50,0,20
+male,22,fourth,blue,71,1300,1,1,4,Yes,7,50,0,4
+female,22,other,blue,65,180,2,1,1,No,0,20,0,6
+female,21,third,brown,65,150,1,0,4,Yes,5,,0,3
+male,20,third,blue,70,60,2,0,3,Yes,3,5,10,5
+female,20,third,hazel,64,100,2,1,4,No,0,50,0,5
+female,19,second,blue,64,65,3,0,4,Yes,4,40,1,3
+male,19,second,hazel,60,129,2,0,3,Yes,2,15,1,3
+male,19,second,hazel,73,130,2,1,10,Yes,10,50,0,5
+female,19,second,brown,66,250,2,0,12,Yes,7,40,1,6
+female,23,other,blue,68,45,4,1,14,No,0,275,0,7
+female,19,second,blue,65,30,0,2,28,No,0,45,2,15
+female,19,second,blue,64,90,0,1,10,Yes,9,25,0,5
+male,31,third,blue,72,31,5,1,3,No,0,35,0,3
+female,20,third,green,63,250,0,2,5,Yes,5,15,0,5
+female,19,second,brown,65,327,1,1,9,No,0,25,4,5
+male,20,third,blue,70,45,0,1,20,Yes,6,175,10,10
+female,21,third,blue,65,75,1,0,14,Yes,0,100,2,10
+female,21,fourth,blue,65,180,1,1,10,Yes,4,20,0,2
+female,20,third,brown,69,140,1,0,15,No,0,150,1,2
+female,19,first,blue,68,0,1,1,20,No,0,20,0,10
+female,20,third,green,67,217,1,1,12,No,0,120,18,10
+male,20,third,hazel,76,450,0,0,10,Yes,8,10,3,20
+male,21,third,hazel,70,160,3,2,6,Yes,4,2,4,6
+female,19,second,brown,67,35,0,1,10,Yes,0,50,1,10
+male,23,other,brown,72,120,2,4,1,No,0,100,0,0
+female,19,second,blue,62,196,3,0,5,Yes,5,500,0,2
+male,21,third,blue,73,125,2,1,6,Yes,5,,0,8
+female,19,second,blue,64,150,1,1,20,Yes,2,30,10,8
+female,19,second,hazel,67,10,1,1,3,Yes,3,40,0,5
+male,20,third,blue,74,150,0,0,7,Yes,3,20,0,1
+female,23,fourth,brown,65,120,1,1,6,Yes,3,20,0,10
+female,19,second,blue,63,400,1,1,15,Yes,20,150,0,4
+female,19,second,brown,66,177,1,0,20,Yes,7,5,0,1
+male,20,third,blue,82,45,1,3,35,No,0,50,0,4
+female,19,second,brown,64,200,1,1,3,No,0,,0,10
+female,19,second,brown,66,120,1,2,12,Yes,7,50,0,10
+female,23,fourth,brown,75,1000,4,3,5,Yes,25,10,7,14
+female,21,fourth,blue,63,15,0,0,5,Yes,10,10,0,2
+male,25,other,hazel,73,106,0,1,30,Yes,4,30,1,50
+female,20,third,hazel,65,772,1,0,20,No,0,100,5,15
+female,19,second,blue,62,250,1,0,15,Yes,8,100,0,15
+male,19,second,blue,75,15,0,0,4,Yes,5,25,5,3
+male,53,first,brown,70,0,0,1,5,No,0,12,4,3
+female,19,second,hazel,70,200,3,1,2,Yes,3,32,0,5
+female,22,other,brown,62,10,4,2,5,No,0,50,0,15
+female,21,fourth,hazel,64,25,1,2,15,Yes,4,25,0,15
+female,19,second,green,64,100,3,2,30,Yes,2,5,4,2
+female,22,fourth,blue,67,88,2,1,8,Yes,3,40,1,8
+male,20,second,brown,69,180,3,1,14,Yes,4,55,0,5
+male,23,other,other,67,90,1,0,5,Yes,5,0,3,5
+male,21,fourth,brown,72,0,2,1,20,Yes,0,2,45,20
+male,19,second,blue,70,45,1,0,10,No,0,70,0,12
+female,20,third,brown,70,441,0,4,14,No,0,50,0,21
+female,20,second,green,67,120,2,0,10,Yes,5,20,5,10
+female,19,second,blue,64,140,0,0,2,Yes,3,50,0,4
+male,39,fourth,brown,72,110,1,2,25,Yes,0,5,5,2
+female,19,second,brown,65,340,3,1,14,No,0,300,0,7
+male,19,second,brown,,10000,1,0,10,Yes,3,1,20,7
+male,19,second,blue,72,35,0,2,15,Yes,8,100,2,3
+female,19,second,hazel,67,220,2,0,5,Yes,4,200,0,1
+female,20,third,brown,62,230,1,0,3,No,0,100,3,3
+male,20,third,brown,69,20,1,0,11,No,0,30,1,6
+male,22,fourth,brown,73,100,1,1,10,Yes,7,100,7,12
+male,20,third,blue,74,158,2,0,4,Yes,6,34,2,0
+male,20,third,blue,71,350,0,0,15,Yes,9,150,0,2
+male,22,fourth,blue,70,200,0,1,10,Yes,5,100,0,20
+male,20,third,brown,79,180,1,0,35,Yes,3,15,0,8
+female,19,second,hazel,68,110,0,0,30,Yes,8,10,0,15
+female,18,second,blue,67,100,2,0,15,Yes,9,75,0,0
+male,21,third,hazel,74,50,2,3,16,Yes,8,5,25,14
+male,19,second,blue,71,20,1,1,15,Yes,4,100,5,12
+female,20,third,blue,66,115,2,2,64,Yes,3,25,0,3
+male,19,third,green,70,1500,3,0,10,Yes,5,40,4,14
+female,21,third,blue,69,230,1,0,11,Yes,10,75,1,10
+male,19,second,brown,71,35,1,0,10,Yes,3,21,7,3
+male,21,third,brown,74,193,0,1,17.5,Yes,2,100,0,22.5
+female,20,third,blue,64,50,1,0,10,No,0,20,0,15
+female,22,fourth,blue,68,30,1,2,9,Yes,4,25,1,10
+female,20,third,blue,64,175,1,4,0.5,No,0,75,0,21
+male,20,third,brown,69,90,1,1,25,Yes,8,60,1,2
+female,20,third,hazel,66,130,1,0,15,No,0,,10,25
+male,20,third,green,77,51,0,1,4,No,0,150,2,10
+female,19,second,hazel,71,160,0,2,10,Yes,2,60,0,10
+female,20,second,blue,66,200,4,2,35,Yes,12,53,1,6
+female,19,second,blue,65,250,0,2,1,No,0,25,3,6
+female,30,other,other,69,30,1,0,15,Yes,2.5,100,5,0
+male,31,other,green,76,30,1,2,15,Yes,20,100,5,0
+male,19,third,hazel,74,100,2,0,5,Yes,7,25,6,6
+male,21,fourth,brown,72,30,1,0,10,No,0,150,5,3
+male,21,third,blue,70,120,1,1,10,Yes,3,75,20,7
+female,21,fourth,green,63,379,1,1,12,Yes,7,50,0,2
+male,20,second,hazel,68,140,0,1,3,Yes,5,28,1,2
+female,19,second,blue,69,100,1,3,15,Yes,10,50,0,2
+male,19,second,brown,73,642,0,1,18,Yes,10,20,5,16
+male,20,third,brown,70,350,3,0,20,Yes,10,300,2,8
+female,19,second,green,70,200,1,1,25,Yes,8,50,0,5
+female,19,second,blue,65,215,0,1,14,Yes,0,150,0,6
+male,19,second,blue,75,150,0,1,2,Yes,8,10,2,12
+male,25,other,hazel,70,117,0,2,12,Yes,4,0,0,4
+male,22,third,blue,69,160,5,1,4,Yes,4,12,1,5
+female,21,fourth,green,62,40,3,0,7,Yes,10,30,0,14
+female,19,second,blue,64,40,1,2,21,No,0,30,0,4
+male,20,third,brown,66,97,3,1,15,Yes,4,25,3,0
+female,19,second,brown,68,300,2,3,6,No,0,200,0,12
+female,20,third,green,65,30,1,0,10,No,0,50,0,12
+female,19,second,green,65,65,2,0,8,Yes,0,30,1,2
+female,21,fourth,brown,62,200,1,0,35,Yes,5,10,0,8
+female,20,first,brown,,,1,0,21,Yes,5,5,0,14
+female,56,other,brown,66,190,2,0,21,Yes,5,10,0,30
+male,22,fourth,brown,69,150,1,0,10,No,0,100,10,30
+female,20,third,blue,67,160,2,2,42,No,0,0,1,28
+male,20,third,blue,73,180,1,1,50,No,0,5,25,15
+male,19,second,blue,70,40,2,0,10,Yes,6,48,5,10
+male,20,third,blue,74,115,0,1,4,Yes,7,75,0,2
+male,22,other,brown,68,70,1,2,30,Yes,8,200,0,0
+male,21,fourth,blue,76,60,3,1,25,Yes,3,75,0,0
+male,20,third,blue,76,185,1,0,5,Yes,4.5,30,7,5.5
+male,20,third,blue,69,1750,1,1,10,Yes,16,50,10,30
+male,23,other,blue,69,200,2,6,10,Yes,10,50,10,30
+female,20,third,blue,66,15,2,2,7,No,0,200,0,2
+female,19,second,brown,62,20,1,0,10,Yes,7,50,0,6
+male,22,other,blue,75,25,1,1,4,Yes,7,40,5,14
+female,21,third,green,64,0,2,1,7,Yes,7,50,0,3
+female,19,second,hazel,67,50,0,2,40,No,0,40,1,1
+male,19,second,brown,66,50,0,0,15,Yes,6.5,300,0,0
+male,20,second,brown,63,55,1,2,15,Yes,4.5,15,4,13
+female,20,third,hazel,67,45,1,2,14,No,0,50,0,15
+male,20,third,blue,74,15,0,1,10,Yes,10,100,1,9
+male,20,third,blue,72,220,1,0,8,Yes,20,103,2,14
+female,19,second,brown,65,300,0,2,6,No,0,20,0,2
+male,21,fourth,blue,72,169,1,1,5,Yes,12,28,2,15
+female,19,second,blue,64,200,2,1,10,No,0,50,1,8
+male,22,fourth,blue,71,600,3,2,6,Yes,2,25,1,4
+male,22,third,brown,74,200,1,2,10,No,0,30,1,7
+male,20,second,blue,73,112,1,1,2,No,0,15,3,49
+female,19,second,blue,68,90,1,1,10,Yes,3,200,2,15
+female,22,other,brown,71,10,2,3,6,No,0,120,0,15
+female,20,second,blue,63,140,1,0,15,No,0,10,2,1
+male,23,fourth,brown,72,6159,1,1,20,No,0,50,5,20
+male,19,second,brown,73,120,1,0,8,Yes,5,15,8,20
+female,18,first,blue,67,167,1,1,18,Yes,4,30,2,6
+female,19,second,brown,68,110,0,0,35,No,0,100,2,25
+female,20,second,hazel,69,35,0,1,7,No,0,30,0,12
+male,26,third,brown,70,0,0,2,72,Yes,5,100,0,0
+female,19,first,green,65,950,0,1,10,No,0,15,8,2
+female,19,second,blue,64,300,0,1,21,Yes,7,10,0,14
+male,22,fourth,brown,76,500,1,0,15,No,0,25,1,10
+male,20,second,blue,68,200,1,2,5,Yes,4,20,1,3
+female,21,third,blue,70,106,2,0,35,Yes,4,200,2,10
+female,19,second,brown,67,200,0,2,60,Yes,3,20,0,3
+female,21,third,brown,64,0,1,0,10,Yes,9,60,0,10
+female,20,third,blue,44,30,0,1,7,Yes,4,200,0,5
+male,21,third,hazel,70,0,1,1,10,No,0,200,0,8
+male,21,third,brown,68,1000,4,3,5,No,0,0,5,25
+female,19,second,blue,70,65,0,1,20,No,0,50,0,10
+male,20,second,brown,70,90,2,1,10,Yes,8,50,9,9
+female,20,third,brown,63,380,2,0,12,Yes,6,50,0,35
+female,19,second,hazel,64,45,1,1,14,Yes,2,3,0,10
+female,20,third,brown,65,230,2,0,15,Yes,7,25,0,14
+female,18,first,blue,68,99,2,0,60,Yes,5,30,1,5
+male,23,fourth,blue,74,100,1,0,5,Yes,6,50,2,5
+male,23,third,hazel,71,250,0,1,5,Yes,10,20,10,5
+male,21,third,hazel,73,200,0,1,2,Yes,15,100,2,7
+male,21,fourth,blue,72,228,0,1,12,Yes,4,447,6,6
+female,20,third,brown,65,40,2,0,40,No,0,60,2,1
+female,21,third,blue,63,200,0,0,12,Yes,5,250,3,6
+female,19,second,brown,64,100,1,1,8,No,0,5,4,8
+female,20,third,brown,62,15,1,1,25,Yes,7,150,1,15
+female,18,first,brown,68,55,1,1,3,No,0,6,0.5,6
+male,20,third,hazel,70,65,0,0,15,Yes,1,266,12,2
+male,20,second,blue,75,65,0,3,15,No,0,250,3,10
+male,19,first,blue,72,8,0,1,10,Yes,2,25,10,10
+female,19,second,brown,65,160,1,2,6,Yes,5,10,0,4
+female,18,first,brown,67,180,2,0,20,Yes,2.5,15,0,5
+female,20,third,hazel,67,60,1,1,10,No,0,100,0,3
+female,18,first,brown,63,4,1,0,10,No,0,,0,6
+female,31,other,blue,68,234,1,1,21,No,0,1000,2,4.5
+female,19,second,brown,60,200,2,0,7,Yes,5,15,0,5
+female,18,first,blue,68,200,2,0,21,Yes,4,15,1,3
+male,22,fourth,hazel,72,450,0,1,7,Yes,15,600,6,12
+male,20,second,green,72,359,0,1,7,No,0,10,11,19
+female,19,second,hazel,66,375,1,1,10,No,0,45,0,15
+female,19,third,brown,66,75,1,0,8,Yes,3,200,2,8
+male,20,third,brown,68,172,2,0,20,Yes,0,15,3,25
+female,20,third,blue,69,217,5,0,15,Yes,5,20,0,20
+female,20,third,green,64,380,1,1,15,Yes,6,50,0,8
+female,20,third,blue,62,184,1,0,6,Yes,6,100,1,10
+male,21,third,hazel,85,35,4,0,3,Yes,6,74,0,3
+male,19,second,brown,71,176,3,1,10,No,0,125,2,30
+male,18,first,brown,70,186,1,1,10,No,0,20,15,30
+male,34,other,hazel,75,0,0,2,46,No,0,1110,12,14
+female,18,first,blue,70,30,1,0,9,Yes,4,30,1,14
+male,25,third,brown,68,85,1,1,20,Yes,25,0,0,10
+male,20,second,brown,75,330,2,0,72,No,0,0,36,15
+male,20,second,blue,71,70,1,1,20,Yes,3,15,5,10
+male,22,fourth,brown,69,99,0,2,20,Yes,10,0,0,10
+male,22,fourth,brown,75,182,2,1,24,No,0,104,1,3
+male,21,third,blue,77,50,0,1,100,Yes,8,100,8,25
+female,19,second,green,,30,0,1,6,Yes,6,100,0,10
+female,18,first,green,71,200,0,1,10,No,0,30,6,2
+female,20,second,brown,63,150,1,1,35,No,0,10,0,21
+female,22,fourth,blue,68,180,0,0,10,Yes,3,55,0,3
+female,21,fourth,green,67,45,0,2,50,No,0,51,1,35
+female,19,second,blue,61,180,0,1,20,Yes,15,,0,3
+female,22,fourth,brown,68,0,1,1,10,Yes,12,80,0,10
+male,19,first,blue,72,120,1,1,10,No,0,,0,15
+female,22,fourth,blue,64,300,2,1,5,Yes,7,100,4,2
+male,19,second,green,74,130,0,1,3,Yes,6,35,4,4
+female,20,second,brown,64,,0,1,25,No,0,20,2,20
+female,19,second,brown,60,170,1,1,15,Yes,10,5,0,4
+male,22,fourth,blue,69,200,1,0,12,Yes,5,,2,20
+male,20,second,brown,74,143,0,1,25,Yes,0,,10,10
+female,20,second,blue,69,190,0,0,7,No,0,,0,10
+male,24,second,brown,,,0,1,10,Yes,3,30,2,5
+female,20,second,hazel,64,80,1,2,8,No,0,15,0,5
+male,19,first,brown,70,45,0,0,8,Yes,10,50,6,8
+male,27,other,blue,71,150,1,1,3,Yes,4,500,5,8
+female,19,first,hazel,61,180,2,0,10,No,0,25,0,15
+male,19,second,blue,78,120,1,1,35,Yes,5,50,4,4
+male,21,fourth,blue,72,75,1,2,4,Yes,4,,0.5,15
+male,20,third,brown,71,200,2,1,10,Yes,10,15,15,10
+female,20,second,green,71,120,1,2,25,No,0,30,0,4
+female,20,second,blue,68,130,0,2,15,Yes,8,12,0,2
+male,20,second,brown,67,35,0,1,20,Yes,4,30,15,10
+female,20,second,brown,65,100,1,3,12,No,0,35,0,12
+male,21,third,blue,72,25,0,1,15,Yes,8,20,0,7
+male,18,first,blue,71,200,1,1,8,No,0,5,2,6
+female,18,first,brown,62,45,1,1,13,Yes,6.5,300,1.5,1.5
+female,21,third,blue,68,150,1,1,25,Yes,6,60,20,10
+female,19,first,brown,63,500,1,1,20,Yes,8,,1,3
+male,20,second,green,72,90,1,0,5,No,0,45,20,50
+male,21,fourth,hazel,75,55,0,1,20,Yes,6,3,0,20
+male,19,first,hazel,75,60,1,0,3.5,Yes,4,15,9,2
+female,20,third,brown,66,32,0,1,2,Yes,3,100,7,4
+female,19,second,blue,71,0,1,0,6,Yes,6,35,1,2
+female,20,second,blue,63,50,0,1,15,No,0,100,0,10
+female,23,other,brown,69,120,1,0,30,Yes,4,55,1,15
+female,19,first,blue,71,100,1,2,30,Yes,3,1000,10,25
+male,20,second,brown,70,3500,1,0,6,No,0,20,0,4
+female,21,fourth,blue,68,225,2,1,20,Yes,9,250,0,3
+male,18,first,brown,72,370,0,1,30,No,0,70,2,10
+female,20,second,green,65,125,1,1,15,No,0,30,3,10
+female,20,second,blue,67,312,2,1,5,Yes,3,40,0.5,3
+female,22,fourth,blue,65,140,0,1,6,No,0,40,0,4
+male,21,third,hazel,72,200,0,1,20,No,0,1000,1,4
+female,18,first,blue,63,180,0,1,8,No,0,50,0,15
+male,21,third,brown,70,219,0,1,5,Yes,3,20,3,2
+female,20,second,hazel,64,150,1,0,10,No,0,55,2,7
+female,19,second,hazel,67,10,1,0,15,No,0,45,0.5,7
+female,19,second,brown,64,30,1,1,5,Yes,3,15,1,7
+female,18,first,blue,62,180,1,3,12,Yes,7,,0,5.5
+female,21,third,brown,72,200,0,1,10,Yes,10,,5,10
+female,20,second,green,,40,3,1,10,Yes,4,200,0,0
+male,24,other,brown,69,184,1,1,14,Yes,6,8,4,14
+female,18,first,green,76,210,1,0,25,Yes,20,50,0,2
+female,20,third,blue,71,120,1,2,10,Yes,4.5,50,1,6
+male,20,second,blue,72,130,1,0,15,No,0,80,2,6
+female,22,other,blue,73,600,1,2,10,Yes,5,50,0,15
+female,20,second,hazel,68,90,1,1,20,Yes,5,40,3,20
+female,23,other,green,64,60,0,2,5,Yes,7,100,0,8
+female,21,third,green,69,30,0,1,10,Yes,4,50,0,2
+female,18,first,blue,66,120,2,0,30,Yes,6,50,0,3
+male,19,second,blue,73,257,1,2,60,No,0,250,15,1
+male,22,fourth,blue,70,90,1,1,2,Yes,12,0,10,10
+female,22,fourth,blue,67,120,0,2,4,Yes,2,80,0,4
+female,20,second,green,63,1600,0,0,15,Yes,2,20,0,2
+male,21,third,brown,72,400,1,0,6,No,0,50,1,4
+female,20,third,brown,66,0,0,1,56,No,0,30,1,5
+female,20,second,blue,65,305,1,0,20,No,0,20,0,28
+male,21,second,blue,70,175,2,2,5,No,0,50,3,5
+female,21,third,brown,64,219,0,0,25,No,0,75,0,20
+female,20,second,green,66,160,1,2,25,No,0,75,0,3
+male,20,third,brown,78,335,1,0,9,No,0,10,8,10
+male,20,second,brown,78,220,1,1,15,No,0,10,2,8
+female,22,fourth,green,63,180,1,0,10,Yes,3,100,0,15
+male,18,first,blue,74,60,0,2,10,Yes,5,10,3,15
+female,26,other,brown,67,185,1,0,20,No,0,,0,15
+female,21,third,green,54,64,1,1,10,Yes,3,113,0,6
+male,21,fourth,brown,72,22.5,1,4,5,Yes,6,75,10,8
+male,19,second,brown,66,361,2,0,15,Yes,9.5,25,10,23
+female,35,fourth,green,64,30,1,0,12,Yes,2.5,200,2,6
+male,19,first,brown,68,102,1,1,14,No,0,20,14,1
+female,18,first,brown,67,350,0,0,10,No,0,200,0,10
+male,21,third,brown,74,360,1,3,6,No,0,650,12,3
+female,20,third,blue,66,180,0,1,28,Yes,7,20,0,21
+male,22,fourth,blue,73,170,0,1,10,No,0,90,0,2
+female,22,fourth,green,64,170,0,1,12,Yes,3,100,0,7
+male,22,fourth,blue,74,60,0,1,8,Yes,2,10,0,4
+male,21,third,other,76,90,1,2,8,No,0,50,12,8
+female,20,second,brown,62,15,4,0,12,No,0,100,0,15
+male,21,third,blue,75,230,0,3,7,Yes,6,200,1,10
+female,19,second,brown,65,30,1,1,25,No,0,78,0,30
+male,19,first,green,75,60,3,0,6,Yes,2,0,4,2
+female,20,second,green,67,110,2,0,25,Yes,10,100,3,20
+male,20,second,hazel,72,120,0,3,10,Yes,12,0,4,5
+female,19,second,blue,66,1027,1,0,20,No,0,0,0,3
+female,22,fourth,blue,65,210,0,1,20,Yes,5,10,0,5
+male,20,second,blue,70,150,0,0,10,Yes,5,5,15,15
+male,19,second,brown,75,15,0,1,4,Yes,0,5,15,3
+female,21,fourth,hazel,67,0,2,0,18,Yes,3,130,2,10
+male,20,second,brown,72,74,1,0,15,No,0,25,1,5
+female,19,second,hazel,70,250,0,0,5,Yes,12,50,1,4
+male,24,other,hazel,75,70,1,0,20,No,0,150,10,30
+male,21,fourth,green,73,120,1,0,6,Yes,6,100,8,35
+female,19,first,blue,64,250,2,1,8,No,0,25,2,10
+female,20,third,blue,67,,0,2,3,No,0,20,0,0
+female,23,other,blue,70,175,1,1,14,Yes,2,40,0,15
+male,22,second,green,66,4000,2,0,30,Yes,3,120,5,10
+male,20,third,green,75,45,4,1,20,Yes,7,10,10,20
+female,20,second,brown,63,90,0,2,4,No,0,23,1,2.5
+female,22,fourth,hazel,69,120,0,4,3,Yes,6,20,0,5
+female,19,second,green,63,250,1,1,20,No,0,75,2,4
+female,21,third,blue,64,1200,1,2,3,Yes,5,200,0,20
+male,32,third,blue,62,50,1,1,5,No,0,50,2,15
+female,21,third,green,64,170,0,2,40,Yes,8,,2,20
+female,21,third,brown,,0,0,2,10,Yes,3,50,0,20
+male,23,fourth,blue,71,236,1,1,8,No,0,40,10,4
+female,20,second,blue,63,60,3,1,24,No,0,90,0,3
+female,20,second,brown,67,20,2,2,42,No,0,2,1,3
+female,22,fourth,green,67,30,1,0,20,Yes,4,,0,10
+female,20,third,blue,66,100,0,2,15,Yes,5,,0,2
+male,24,other,brown,72,104,4,1,3,No,0,150,10,20
+female,19,second,blue,57,300,0,1,15,No,0,25,0,15
+female,25,third,hazel,67,33,0,0,14,Yes,4,50,0,3
+female,18,first,green,65,45,1,0,15,No,0,80,0,8
+male,20,third,green,72,115,2,1,10,No,0,50,30,20
+female,21,third,hazel,67,175,1,0,2,No,0,50,0,4
+female,19,second,hazel,68,150,0,3,15,Yes,4,80,1,3
+male,20,second,hazel,75,162,1,0,10,Yes,5,5,1,2
+male,23,other,blue,75,30,0,1,20,Yes,7,,10,5
+male,18,first,brown,61,352,0,1,35,No,0,30,10,4
+female,21,third,hazel,65,300,1,1,20,Yes,26,100,1,2
+male,19,second,blue,62,333,1,2,20,No,0,,2,12
+female,22,other,brown,67,130,4,2,8,Yes,5,50,2,30
+male,22,third,hazel,73,70,2,1,4,No,0,150,2,7
+female,19,second,brown,68,295,0,1,5,No,0,,0.5,3
+female,22,fourth,brown,68,,1,0,4,No,0,100,0,15
+female,20,second,brown,68,120,0,1,20,Yes,5,30,2,8
+male,22,fourth,hazel,72,120,1,1,3,No,0,25,5,20
+male,27,fourth,brown,68,90,1,0,5,Yes,4.5,600,0,2
+female,21,third,green,68,30,1,0,7,No,0,20,0,10
+female,18,first,brown,65,36,2,1,12,Yes,12,157,2,2
+male,26,other,brown,71,400,1,0,7,No,0,50,5,4
+male,20,second,blue,73,0,1,3,5,Yes,8,20,0,1
+female,19,second,blue,66,250,1,1,20,Yes,3.5,25,0,10
+female,18,first,green,65,120,1,0,15,Yes,4,50,1,8
+female,17,first,blue,66,60,1,0,30,Yes,5,9,0,20
+female,22,fourth,hazel,64,237,2,1,25,Yes,6,25,0,2
+female,19,second,brown,65,0,2,0,24,No,0,50,3,12
+female,20,third,blue,63,45,2,2,70,No,0,50,0,14
+male,20,third,green,73,180,1,1,4,Yes,10,100,2,12
+female,19,second,blue,63,214,1,0,,Yes,10,,0,5
+female,19,second,other,62,121,0,1,20,No,0,20,0,0.5
+female,18,first,blue,63,366,1,0,40,No,0,100,1,2
+male,25,second,blue,71,0,1,1,8,Yes,4,50,0,4
+male,24,fourth,brown,73,120,1,0,20,No,0,100,5,21
+female,20,third,blue,67,170,2,2,24,Yes,4,18,0,13
+female,24,third,brown,67,10,2,1,10,Yes,6,20,0.5,10
+male,21,fourth,green,76,88,0,1,28,Yes,6.5,100,2,2
+female,19,second,blue,67,200,1,0,25,No,0,100,4,10
+male,20,third,blue,71,120,2,0,10,No,0,20,5,15
+female,21,fourth,blue,67,360,1,1,28,Yes,4,150,5,7
+male,23,third,hazel,72,209,1,1,20,Yes,10,100,0,20
+female,19,first,hazel,66,108,0,2,16,Yes,8,40,1,14
+male,21,third,blue,68,110,1,3,10,Yes,7,50,0,9
+female,19,second,hazel,65,130,0,2,20,Yes,3,50,1,12
+male,25,fourth,blue,75,140,3,1,25,No,0,100,0,9
+female,19,second,blue,61,80,1,0,4,No,0,30,1,10
+male,22,third,green,69,40,0,2,10,No,0,50,2,15
+male,21,third,blue,71,38,1,0,40,Yes,21,100,2,4
+male,22,other,brown,70,1043,2,2,5,Yes,5.5,100,3,15
+male,18,first,blue,69,350,1,0,20,No,0,10,5,5
+female,20,third,brown,82,108,0,1,28,No,0,65,0,5
+male,21,third,brown,73,140,2,0,12,Yes,5,100,8,10
+female,19,first,blue,66,50,1,0,30,No,0,20,0,7
+female,20,third,blue,64,27,1,2,20,Yes,2,35,0,2
+male,20,second,hazel,69,30,1,1,5,Yes,4,40,5,12
+female,22,fourth,blue,65,90,1,3,12,Yes,4.5,90,0,40
+female,19,second,blue,70,160,0,1,14,No,0,70,0,8
+female,21,third,green,66,90,0,2,8,Yes,6.5,30,0,10
+female,22,fourth,brown,65,15,2,0,14,No,0,20,0,4
+female,18,first,brown,67,330,1,0,10,Yes,6,100,1,3
+female,18,first,brown,67,45,2,1,4,No,0,120,8,6
+male,22,fourth,blue,68,137,1,2,10,Yes,10,40,10,6
+female,18,first,blue,64,45,1,1,14,Yes,14,50,0,35
+female,20,third,brown,63,30,0,2,20,No,0,12,2,5
+female,18,first,hazel,74,106,1,1,16,Yes,10,58,2,40
+male,20,third,hazel,71,20,1,2,10,Yes,7,22,0,0
+female,18,first,hazel,67,90,2,1,10,Yes,3,26,0,12
+male,21,fourth,blue,73,250,1,0,12,Yes,4,100,1,8
+female,20,second,brown,64,171,1,2,8,Yes,15,45,2,3
+male,20,third,green,70,1500,2,0,10,No,0,15,10,20
+female,21,third,brown,61,70,1,4,20,Yes,4,40,0,3
+female,20,third,brown,62,300,2,1,10,Yes,4,,0,10
+female,24,fourth,brown,59,10200,1,0,5,No,0,0,2,5
+female,22,fourth,brown,66,120,0,1,25,No,0,20,0,0
+female,20,second,hazel,62,136,1,0,15,No,0,20,0,10
+male,20,third,blue,70,50,0,0,20,Yes,3,200,0,7
+female,19,first,blue,67,180,1,0,12,Yes,3,35,1,30
+male,21,third,brown,66,300,1,0,6,Yes,5,80,10,10
+female,18,first,hazel,70,700,0,0,27.5,No,0,150,3,7.5
+female,19,first,green,64,94,0,0,25,Yes,10,200,16,8
+female,19,first,hazel,69,180,1,0,14,Yes,4,60,0,5
+male,21,fourth,blue,74,200,1,0,3,Yes,5,12,5,10
+male,21,third,brown,72,180,1,1,4,No,0,5,4,20
+female,19,second,blue,52,0,2,1,4,Yes,4,200,1,4
+female,21,third,hazel,60,60,2,2,3,No,0,20,0,3
+female,20,second,brown,66,210,2,3,5,Yes,4,25,1,5
+male,19,second,brown,74,200,2,1,5,Yes,1,10,3,2
+male,21,fourth,brown,75,220,3,0,3,Yes,17,75,3,15
+female,18,first,blue,69,100,0,1,10,Yes,4,100,0,15
+male,18,first,blue,71,60,1,1,6,Yes,6,10,8,5
+male,20,third,green,74,800,0,1,20,No,0,30,5,3
+female,19,first,blue,66,80,2,1,4,Yes,4,50,7,7
+male,21,third,blue,75,75,1,1,15,Yes,45,25,0,10
+female,21,third,green,65,200,1,0,6,Yes,7.5,40,2.5,17.5
+male,20,second,blue,73,220,1,1,15,No,0,12,0,1
+female,19,first,blue,68,200,1,1,10,Yes,6,50,0,1
+male,20,second,brown,,55,0,1,8,No,0,5,3,7
+male,20,second,brown,,95,0,1,8,Yes,8,14,5,2
+female,25,fourth,blue,64,0,0,2,20,No,0,20,5,4
+female,20,third,brown,70,0,0,2,10,Yes,8,25,0,3
+male,19,first,green,77,36,0,1,8,No,0,75,9,3
+female,19,second,hazel,64,350,1,0,8,Yes,3,50,0,1
+female,20,second,blue,63,450,0,1,5,Yes,4,75,8,8
+female,18,first,brown,62,350,2,1,100,No,0,45,10,60
+male,26,fourth,brown,72,20,1,0,20,Yes,10,200,25,15
+male,20,second,brown,68,212,1,1,30,Yes,5,654,2,26
+female,19,second,green,70,180,1,0,10,Yes,0,30,0,5
+female,19,first,hazel,64,30,1,3,20,Yes,6,50,0,5
+male,20,second,hazel,75,212,0,1,3,No,0,25,2,15
+female,21,third,hazel,66,35,1,0,30,Yes,3,250,2,10
+female,22,fourth,brown,65,231,0,4,30,Yes,6,200,0,5
+female,20,third,green,65,20,0,1,10,No,0,30,0,15
+female,20,third,blue,67,180,1,0,6,Yes,2,50,0,10
+male,31,third,brown,66,75,4,1,15,Yes,6,400,10,12
+male,19,first,hazel,71,759,1,1,65,No,0,4,20,15
+female,19,second,brown,62,110,0,1,5,No,0,30,1,10
+male,24,third,blue,71,240,1,0,8,No,0,25,1,10
+male,21,third,blue,61,324,0,2,20,Yes,9,230,20,20
+male,21,fourth,brown,68,236,1,1,10,No,0,50,1,10
+male,21,fourth,hazel,72,144,1,1,30,Yes,4,25,0,0
+male,20,second,brown,72,140,0,1,21,No,0,150,7,21
+female,19,first,blue,65,120,1,0,3,No,0,48,2,4
+male,20,second,blue,77,120,1,0,7,Yes,7,0,5,15
+female,20,third,brown,70,300,1,1,10,Yes,5,30,0,8
+male,19,first,brown,69,100,3,0,2,No,0,2,1,6
+female,20,second,blue,69,360,1,1,20,Yes,0,25,0,5
+female,20,second,brown,63,120,1,1,10,Yes,4.5,2,5,5
+male,20,third,blue,76,154,1,1,10,No,0,20,18,5
+female,21,fourth,hazel,63,180,2,1,15,No,0,3,1,1
+female,20,third,green,64,90,0,2,12,Yes,12,100,1,5
+female,18,first,blue,66,110,0,1,14,No,0,239,2,10
+male,19,second,blue,73,140,0,1,4,Yes,6,45,7,12
+female,24,other,green,64,141.2,0,3,40,No,0,80,1,0
